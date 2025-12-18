@@ -1,0 +1,4216 @@
+{
+  "users": [
+    {
+      "id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "email": "admin@example.com",
+      "phone": "+79990000001",
+      "role": "admin",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-17T08:13:41.022Z",
+      "phone_verified_at": "2025-12-15T09:21:11.999Z",
+      "created_at": "2025-10-27T23:57:37.593Z"
+    },
+    {
+      "id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "email": "Filomena.Connelly73@gmail.com",
+      "phone": "+79995925622",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-14T13:32:37.108Z",
+      "phone_verified_at": "2025-12-15T00:03:41.381Z",
+      "created_at": "2025-10-25T14:02:36.950Z"
+    },
+    {
+      "id": "90464b76-0924-491a-a12d-52e514100110",
+      "email": "Akeem.Gislason67@hotmail.com",
+      "phone": "+79993511579",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-15T08:10:57.969Z",
+      "phone_verified_at": null,
+      "created_at": "2025-07-10T05:01:27.837Z"
+    },
+    {
+      "id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "email": "Thurman.Lebsack@yahoo.com",
+      "phone": "+79993859545",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-15T03:11:23.396Z",
+      "phone_verified_at": null,
+      "created_at": "2025-11-03T04:00:12.011Z"
+    },
+    {
+      "id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "email": "Yessenia.Adams49@hotmail.com",
+      "phone": "+79998517506",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-14T21:52:16.928Z",
+      "phone_verified_at": "2025-12-15T06:40:20.552Z",
+      "created_at": "2025-07-06T08:47:45.889Z"
+    },
+    {
+      "id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "email": "Libbie_Anderson35@gmail.com",
+      "phone": "+79991667246",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": null,
+      "phone_verified_at": "2025-12-15T01:57:27.866Z",
+      "created_at": "2024-12-15T22:44:47.304Z"
+    },
+    {
+      "id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "email": "Claude_Koepp@hotmail.com",
+      "phone": "+79993474326",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-15T07:38:10.690Z",
+      "phone_verified_at": "2025-12-14T20:47:11.219Z",
+      "created_at": "2025-05-18T14:53:49.892Z"
+    },
+    {
+      "id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "email": "Blake_Dickens@gmail.com",
+      "phone": "+79999442177",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-14T20:45:59.382Z",
+      "phone_verified_at": "2025-12-15T00:24:24.625Z",
+      "created_at": "2025-03-09T04:24:58.792Z"
+    },
+    {
+      "id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "email": "Mossie90@hotmail.com",
+      "phone": "+79997064477",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-15T11:08:02.285Z",
+      "phone_verified_at": null,
+      "created_at": "2025-04-10T18:06:20.962Z"
+    },
+    {
+      "id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "email": "Jessy.Wintheiser96@yahoo.com",
+      "phone": "+79991199520",
+      "role": "user",
+      "password_hash": "$2a$10$N9qo8uLOickgx2ZMRZoMye3.ZLwB.8KjF2E6G0g8U7Yw5q6Y2hF6K",
+      "email_verified_at": "2025-12-14T21:50:32.541Z",
+      "phone_verified_at": "2025-12-14T15:41:24.011Z",
+      "created_at": "2025-09-14T23:22:31.714Z"
+    },
+    {
+      "id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "email": "it_bur_2025_9@bsu.ru",
+      "role": "user",
+      "password_hash": "$2b$10$9dReg0uDnYIReNaNYIgfvObpQruMGakkaupBD/QgfwWfA2k49vEqm",
+      "email_verified_at": "2025-12-17T08:24:06.550Z",
+      "phone_verified_at": null,
+      "created_at": "2025-12-15T12:27:16.108Z"
+    },
+    {
+      "id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "email": "slava.erof07@gmail.com",
+      "role": "user",
+      "password_hash": "$2b$10$ktyhlV059.eE4tPw8lDZquT4vZZhQ/a3xovqVn7tZjQstwRwoV/Mm",
+      "email_verified_at": "2025-12-18T06:53:38.856Z",
+      "phone_verified_at": null,
+      "created_at": "2025-12-15T13:05:16.086Z"
+    },
+    {
+      "id": "fe68bdc7-9ff0-461b-a00a-2812b3c9f563",
+      "email": "it_bur_2025_8@bsu.ru",
+      "role": "user",
+      "password_hash": "$2b$10$Wn/CsHuE.r45d0Wmp8.Kd.L8CzeXiVq9Gn8I6Hjn5s9BneXJYBNwG",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-15T13:15:59.454Z"
+    },
+    {
+      "id": "21b8689e-e691-4641-8270-1ce5ae7aef5b",
+      "email": "user@gma.com",
+      "role": "user",
+      "password_hash": "$2b$10$i/N0sEIteQ8dVp1GmkPsOuV1uPWgWI4an8IyN0dLOQ81x.TtzjGY6",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-15T13:18:32.398Z"
+    },
+    {
+      "id": "31d4eb95-046b-41e4-b4b9-b1903f4e2d87",
+      "email": "bara@bk.com",
+      "role": "user",
+      "password_hash": "$2b$10$baYyLG/njX5aDjB5PvmIye2IDJDMxdVwLsLDrjmh47.q971JP/IbG",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-15T13:39:42.030Z"
+    },
+    {
+      "id": "9d789655-4d03-466e-9e8b-b507305262b7",
+      "email": "slava.erof07@gmssail.com",
+      "role": "user",
+      "password_hash": "$2b$10$J/MZQKIyN03jhZ5GrxGRBuSEzm6vnxMTETDgv1oUzTNwr.H5sfUmm",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-16T02:55:11.239Z"
+    },
+    {
+      "id": "3b6fedd4-b1fa-40eb-bff4-5ad753f8ad93",
+      "email": "admin@examsple.com",
+      "role": "user",
+      "password_hash": "$2b$10$1LE9gCEHaaWzkAWeY7tkSurgI8o8RcHOLb3zGSBuvkTfhHWGi/tGG",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-16T02:59:01.944Z"
+    },
+    {
+      "id": "b0e0c11b-0199-41d0-8a17-25bbdc927a75",
+      "email": "it_bur_2025_99@bsu.ru",
+      "role": "user",
+      "password_hash": "$2b$10$pVCBYE.jpjBJ88QHej/.VONcmVYJt3.Owk5nz0YgheBLJ8e5dF4au",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-16T10:48:48.663Z"
+    },
+    {
+      "id": "b3499983-5be5-4fe9-ba10-dab50527b440",
+      "email": "it_bur_2022225_9@bsu.ru",
+      "role": "user",
+      "password_hash": "$2b$10$lrH7BJeFsdrecUX/2jv/AeIQ.bzNS86jpo6IHAwDIJ73yrABZ4dj6",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-17T08:43:58.089Z"
+    },
+    {
+      "id": "ad145a1a-9c5a-4a61-a65d-1883f64aa474",
+      "email": "egooro@gmail.com",
+      "role": "user",
+      "password_hash": "$2b$10$8zvF840R6qmtM.i4m6Tw9e3fErPPXU3ARWEh/klkTHn0fn2JNbgjW",
+      "email_verified_at": "2025-12-17T09:38:33.498Z",
+      "phone_verified_at": null,
+      "created_at": "2025-12-17T09:36:37.809Z"
+    },
+    {
+      "id": "d29fd6e6-84d1-4321-afe7-75a772183743",
+      "email": "crashsystem@gmail.com",
+      "role": "user",
+      "password_hash": "$2b$10$Bl1Gg1g9G5t9r6apZPD3EOrA4nMvXC2URmjOQea.mZYAD.8vlghgi",
+      "email_verified_at": null,
+      "phone_verified_at": null,
+      "created_at": "2025-12-18T07:50:41.997Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "2efe2cfc-f9df-40d9-85ea-56b8127548e8",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "sHPBHDtbgbeOAGpSapyDwDdra9hVgM7gv2xfaxMByuR1unbm6xBMmiIn3ikehtp4",
+      "ip": "155.139.171.218",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.3; Trident/7.1; .NET CLR 3.6.57946.6)",
+      "created_at": "2025-11-25T10:49:22.800Z",
+      "last_seen": "2025-11-29T19:14:10.413Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:48:33.990Z"
+    },
+    {
+      "id": "aa22d9d2-ee5b-44de-bb55-33d37e6d80c9",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "1CPbQ9svDtNPcfNEol672yhwIZETzrmPbGlu85HGLi4mtzomCmpKreV4DwDO6BJt",
+      "ip": "c5c2:4bea:ab65:2e1c:91c1:fe3f:4aed:708e",
+      "user_agent": "Opera/12.74 (Windows NT 5.3; U; BN Presto/2.9.160 Version/12.00)",
+      "created_at": "2025-12-06T18:18:39.383Z",
+      "last_seen": "2025-12-12T19:19:24.994Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:36:37.920Z"
+    },
+    {
+      "id": "df17487a-d311-40f1-addd-031a04da528e",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "rhMdshRZEtIjPKR0UJCfrrOrWhS2kPJEkv85xTx6kor835U0TqctmiaGJ18F1dso",
+      "ip": "7173:f608:e22d:dcd5:3d3b:e4e8:b7a6:1d12",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_1 rv:5.0; HE) AppleWebKit/531.0.0 (KHTML, like Gecko) Version/6.1.10 Safari/531.0.0",
+      "created_at": "2025-12-01T02:14:32.062Z",
+      "last_seen": "2025-12-05T00:04:08.736Z",
+      "revoked": true,
+      "revoked_at": "2025-12-15T02:39:10.569Z"
+    },
+    {
+      "id": "cc1ba375-26cc-4e04-8072-518bf788190e",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "refresh_hash": "Xg7sxb4x938s3zTVOwnVqZpgIc0wkegNEKbocwWV0BDz5SfomlpH4ekMKFBXlKTh",
+      "ip": "babe:747c:41f1:b3cc:f2cf:a0d3:4a3b:3c83",
+      "user_agent": "Opera/11.98 (Windows NT 6.3; U; AZ Presto/2.9.180 Version/12.00)",
+      "created_at": "2025-11-16T01:47:51.059Z",
+      "last_seen": "2025-12-12T23:12:41.320Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "7119d750-8ea2-4247-8bfc-21d0ef5a9794",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "refresh_hash": "3bmR8RKaDoBBHkXKu4GJZ9D0TzLEZ4dn4AsWlIzOvAYOlmXUiDJBPi3FKKNbqP76",
+      "ip": "15.248.200.217",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/7.0)",
+      "created_at": "2025-11-26T16:28:49.341Z",
+      "last_seen": "2025-12-06T16:10:11.360Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T17:31:11.198Z"
+    },
+    {
+      "id": "afacb858-bda9-4d0e-84c2-592d05a5b574",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "refresh_hash": "E9JumJni2lbA35NyGdF9l1kfsAi2fouRxO3mzO6iae0d3DASDkAvhWvpEFU87tb1",
+      "ip": "aa9b:a5bf:f0dd:c61b:88b2:cdf6:be2c:ed9d",
+      "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1)AppleWebKit/532.1.0 (KHTML, like Gecko) Version/4.1.0 Safari/532.1.0",
+      "created_at": "2025-11-21T22:21:38.218Z",
+      "last_seen": "2025-12-01T02:53:56.761Z",
+      "revoked": false,
+      "revoked_at": "2025-12-13T20:37:35.199Z"
+    },
+    {
+      "id": "d75eceda-2da2-4903-a4bf-2fd341ace362",
+      "user_id": "90464b76-0924-491a-a12d-52e514100110",
+      "refresh_hash": "gCO56adka2wgZqlsthmup25KwbFzfW0hbHzw2sWRmxgDnOTH2aIZUrr68RlHqW2H",
+      "ip": "de9f:f068:98bb:aede:dbc6:e0ce:fcdf:b71e",
+      "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.8.9; rv:10.6) Gecko/20100101 Firefox/10.6.2",
+      "created_at": "2025-11-24T17:38:19.619Z",
+      "last_seen": "2025-12-07T18:29:36.772Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "693b9962-10c7-4119-b148-078a01003fe2",
+      "user_id": "90464b76-0924-491a-a12d-52e514100110",
+      "refresh_hash": "l74QlSshNay1Oy6acmgNaAdLHTzdDeOthjyLmEeRPuYHuRa3HxOqrxVWOcoaaz1q",
+      "ip": "1bfe:8ad2:a806:dcaf:2d37:e01a:22ff:f4b3",
+      "user_agent": "Mozilla/5.0 (X11; Linux i686; rv:9.1) Gecko/20100101 Firefox/9.1.7",
+      "created_at": "2025-12-13T22:51:14.711Z",
+      "last_seen": "2025-12-14T07:24:26.792Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T02:45:05.116Z"
+    },
+    {
+      "id": "bce58a4f-b04a-4d9d-a3b4-646a9286e26d",
+      "user_id": "90464b76-0924-491a-a12d-52e514100110",
+      "refresh_hash": "AzxLPSHGaLQFol1poNYRf59JIbqext6hrH1mu5O1iUfds2sJ84CA9wqytpk4IyW0",
+      "ip": "eacd:8e23:1b42:fcc7:9ce2:60ce:faaa:aa0b",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64 AppleWebKit/536.0.0 (KHTML, like Gecko) Chrome/21.0.839.0 Safari/536.0.0",
+      "created_at": "2025-11-28T02:20:10.377Z",
+      "last_seen": "2025-12-03T04:37:04.297Z",
+      "revoked": true,
+      "revoked_at": "2025-12-14T06:37:11.702Z"
+    },
+    {
+      "id": "2f954de3-b63a-48d6-81ec-b02a4fc89bd3",
+      "user_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "refresh_hash": "rfj6awpM7jPmhSTKDYDASWebZO8fBfMhYT4JAqb9wuGBGtuOLn1NVP3HauV8WZwK",
+      "ip": "d7a0:fc4c:7940:e8bf:4894:9d9e:1f4e:faae",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/4.0)",
+      "created_at": "2025-12-04T14:04:05.707Z",
+      "last_seen": "2025-12-14T18:39:54.824Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "2d1bd882-248b-414e-92cf-33babcc647da",
+      "user_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "refresh_hash": "lrFN6bvDjS9wdqkFbvlgGXPPq8GNO6XiO4uWDH5lA5rdRrHlpTRo2BCX6ahoJ3Ol",
+      "ip": "5200:ec8d:fb03:1d19:769f:ed0a:c6dd:2d93",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/7.0)",
+      "created_at": "2025-11-17T02:04:39.705Z",
+      "last_seen": "2025-11-25T07:24:20.454Z",
+      "revoked": true,
+      "revoked_at": "2025-12-13T23:56:36.741Z"
+    },
+    {
+      "id": "7e80cd61-f5f8-4260-933f-e397458dbaa0",
+      "user_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "refresh_hash": "5wJcgIwxm9uaMH0kRtPMhxT2fTHBzdbkIbyue2BNS8J9edlSSYy5rozMrNuUZvsd",
+      "ip": "2b1a:1a4a:bcfe:09bf:dd16:4561:7efb:b147",
+      "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 5.2)AppleWebKit/538.1.2 (KHTML, like Gecko) Version/7.0.8 Safari/538.1.2",
+      "created_at": "2025-12-03T02:40:44.655Z",
+      "last_seen": "2025-12-03T02:41:03.257Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "602e9ec7-f07b-42e3-9037-a664ed1d13b7",
+      "user_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "refresh_hash": "wrCWrbR1JfdLa4bEufrRYMR3KjL6q7jkiJ2vGE1mXaECZbZfHZ8QkDMYaZYzncrh",
+      "ip": "15e3:af1e:6c94:daf1:cd66:dcf1:2cdc:9608",
+      "user_agent": "Opera/9.28 (Macintosh; Intel Mac OS X 10.5.5 U; CE Presto/2.9.180 Version/10.00)",
+      "created_at": "2025-11-18T07:35:21.169Z",
+      "last_seen": "2025-11-29T05:54:29.490Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T23:30:02.204Z"
+    },
+    {
+      "id": "45ced8c7-873e-4fa1-b394-eaf9fbe2d813",
+      "user_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "refresh_hash": "8crE5a1slb2VwSCovAdmJaBcfshOh5YVC9eKNP48EpIDhygBQPCpRN8Q5TecYbbu",
+      "ip": "bfcf:ca00:4a93:4a3f:b52d:249c:acdd:9f63",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/3.0)",
+      "created_at": "2025-12-03T10:31:39.127Z",
+      "last_seen": "2025-12-08T02:57:45.252Z",
+      "revoked": true,
+      "revoked_at": "2025-12-14T02:18:26.172Z"
+    },
+    {
+      "id": "193e13f4-834e-4f79-8ed0-9e1d836f86f4",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "refresh_hash": "EmPILP5qvTQUvOJsAjfpQTkkmOwRhAItS6nAiaveEvvCcfmAfAOMFA8ZcpnTLevb",
+      "ip": "1e30:d2bf:b4ba:5f44:bc27:17ab:994d:5e36",
+      "user_agent": "Mozilla/5.0 (Windows NT 6.1; Trident/7.0; Touch; rv:11.0) like Gecko",
+      "created_at": "2025-11-27T20:12:53.996Z",
+      "last_seen": "2025-11-30T09:15:25.520Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "5680d3f3-214f-49ed-aef1-fa8a3fedbef5",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "refresh_hash": "qA9KXCVTLC7SW7HW3GKthYvoHIymeC69qI9id9MkJjqRWvTNoc7x1wH5kElhVVzG",
+      "ip": "139.1.125.120",
+      "user_agent": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8)  AppleWebKit/535.2.1 (KHTML, like Gecko) Chrome/33.0.833.0 Safari/535.2.1",
+      "created_at": "2025-12-13T23:25:46.119Z",
+      "last_seen": "2025-12-14T02:40:52.058Z",
+      "revoked": false,
+      "revoked_at": "2025-12-15T02:59:02.373Z"
+    },
+    {
+      "id": "497b945e-f0d9-477d-a919-765fffe50558",
+      "user_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "refresh_hash": "U7JLb7MPNkWjGvszMXWbhpFdF3ltDANXc8UFt2DPnNHFGdjGd8rT42EhcVJRm9Pn",
+      "ip": "206.18.105.10",
+      "user_agent": "Mozilla/5.0 (Windows NT 5.0; rv:15.8) Gecko/20100101 Firefox/15.8.3",
+      "created_at": "2025-12-15T08:45:39.574Z",
+      "last_seen": "2025-12-15T10:05:38.830Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "0f348c28-3d7d-4edc-a3dc-ab8ebe66d620",
+      "user_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "refresh_hash": "QSMDpWQfFipWHwogMhOogd6kPY78MRqSFthaDGtQQjJYyY5JSWNPYXugVD2Wuy64",
+      "ip": "a0dd:60aa:937b:ee60:fb9b:10a7:1b98:afaa",
+      "user_agent": "Mozilla/5.0 (X11; Linux i686; rv:10.7) Gecko/20100101 Firefox/10.7.4",
+      "created_at": "2025-11-30T11:37:57.919Z",
+      "last_seen": "2025-12-07T13:42:11.589Z",
+      "revoked": false,
+      "revoked_at": "2025-12-15T08:00:32.937Z"
+    },
+    {
+      "id": "0bf75e31-dad8-4ff8-82c2-dca6a8bad29e",
+      "user_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "refresh_hash": "8r6Q8z9onVMtOyNGO4drv5ZzhcwBoMBMf6zYALFRA1Um4qPP8aB5p3M457ZMqRag",
+      "ip": "32ca:7a30:bb40:5f14:582f:4efa:3afc:356e",
+      "user_agent": "Opera/14.84 (X11; Linux x86_64; U; NB Presto/2.9.173 Version/12.00)",
+      "created_at": "2025-11-26T02:26:21.129Z",
+      "last_seen": "2025-11-30T15:25:21.789Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "e7a89b0e-9b12-44ed-bd40-d30f1dd01404",
+      "user_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "refresh_hash": "CBs3knUnjTkJYWRWZPwxSJloBCYxQ48kPmQBSunaVvO7VwvgAWaCbMF7jwNqtxoF",
+      "ip": "223.93.189.156",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1 rv:2.0; MN) AppleWebKit/531.1.1 (KHTML, like Gecko) Version/7.1.8 Safari/531.1.1",
+      "created_at": "2025-12-07T14:37:32.283Z",
+      "last_seen": "2025-12-12T09:40:04.685Z",
+      "revoked": true,
+      "revoked_at": "2025-12-14T11:26:18.870Z"
+    },
+    {
+      "id": "9fcc03bd-e5a8-419f-bbad-c5da8c4e5c92",
+      "user_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "refresh_hash": "JCynOIgkzbQp8nbsx46eIvJB9pvZxkV7V3gZgAiUpjR3Duv17AAUGDZraYGMLCMs",
+      "ip": "eece:d35b:06cb:fcb4:a90b:81c1:fffe:ab39",
+      "user_agent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.10.1; rv:12.8) Gecko/20100101 Firefox/12.8.4",
+      "created_at": "2025-11-27T01:25:27.300Z",
+      "last_seen": "2025-11-28T13:05:35.884Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T20:39:52.817Z"
+    },
+    {
+      "id": "35f03eca-71c7-4f54-9595-05db04dee449",
+      "user_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "refresh_hash": "totzIVhHLZn55RitQ45zNBnOM1w08a9sFlvCXtixpIel3MT2T5wnvyHU1XI3WOEM",
+      "ip": "d07f:d22f:26df:6bb9:8a3f:cdc3:08ab:c4d5",
+      "user_agent": "Mozilla/5.0 (X11; Linux i686; rv:8.2) Gecko/20100101 Firefox/8.2.9",
+      "created_at": "2025-12-10T09:51:37.722Z",
+      "last_seen": "2025-12-13T07:54:27.516Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "300b9071-fec0-489b-9654-068cf3c561da",
+      "user_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "refresh_hash": "YyEJCbHiEJSv85EQtuFHFugjKfqMZdBgjLOOXfViJUJz0vvvhTXbyWPxxF7Fy2LG",
+      "ip": "91.192.25.251",
+      "user_agent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/533.1.1 (KHTML, like Gecko) Chrome/13.0.872.0 Safari/533.1.1",
+      "created_at": "2025-12-11T01:46:52.915Z",
+      "last_seen": "2025-12-12T06:14:12.397Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T16:03:23.817Z"
+    },
+    {
+      "id": "e5700441-7bd2-41ca-954c-e9df21bfeba2",
+      "user_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "refresh_hash": "7sEe4lfPBCGIWwfzE0IPhHCwyatmlC7epz4a00YsztkzFDZnnxabjiu8ajrAFUK6",
+      "ip": "63.141.144.215",
+      "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5 rv:5.0; CO) AppleWebKit/533.0.2 (KHTML, like Gecko) Version/6.0.10 Safari/533.0.2",
+      "created_at": "2025-11-28T00:27:32.776Z",
+      "last_seen": "2025-12-08T18:42:34.394Z",
+      "revoked": true,
+      "revoked_at": "2025-12-14T05:02:39.185Z"
+    },
+    {
+      "id": "bc5bcac2-0dad-4aee-9795-5ae9ba477588",
+      "user_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "refresh_hash": "sJllCZfOYMitM00d5YkFthD1OoZOqliX1JKsV0RgVLdHSXEaJYQniWj67GT73jZa",
+      "ip": "8d75:b0cf:0ac7:f7aa:ee7a:cd0f:0e5a:1c55",
+      "user_agent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; Trident/7.0)",
+      "created_at": "2025-11-19T06:00:47.089Z",
+      "last_seen": "2025-11-24T17:02:00.947Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "8a11455b-1d3b-40d3-9965-02061610cc06",
+      "user_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "refresh_hash": "o1qrCX2S5NfUJ4iidPW4RWdC92roI7OUgWeOMNYSt6dwvGpE9c01u3VTnOOJENY8",
+      "ip": "52.168.125.192",
+      "user_agent": "Opera/10.44 (Windows NT 6.0; U; NB Presto/2.9.168 Version/10.00)",
+      "created_at": "2025-12-04T06:27:20.078Z",
+      "last_seen": "2025-12-11T09:44:26.324Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T04:48:12.512Z"
+    },
+    {
+      "id": "2aa59738-bfba-463c-b8d3-326250315c91",
+      "user_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "refresh_hash": "23yogssKy3dbEfvnRvRBjh3ELqbZPC8D9i20Ow77xrMYwh9L0pdQjwHJpV83f839",
+      "ip": "6add:ace3:bd9c:c39f:cd0b:c5bc:9500:5633",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:5.3) Gecko/20100101 Firefox/5.3.7",
+      "created_at": "2025-11-15T13:21:30.950Z",
+      "last_seen": "2025-12-03T05:47:11.612Z",
+      "revoked": false,
+      "revoked_at": "2025-12-14T20:35:50.224Z"
+    },
+    {
+      "id": "efe38275-ca19-405d-b101-5c3f4a7bf3ee",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$ISRyM9VqAMS0SQrJbSazWO8kKFa.2KrVTrZQAtrsIyOC5Qt0lg2Ve",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T12:27:16.173Z",
+      "last_seen": "2025-12-15T12:27:16.173Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:16.681Z"
+    },
+    {
+      "id": "c6b78641-3a06-4803-ba41-596d5b63cd5b",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$cT1sJBtD0pdWmZpKtseFPOQoJekOHorcRHQjRmu9XUaXEWKFRdZ9m",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:05:16.148Z",
+      "last_seen": "2025-12-15T13:05:16.148Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "3e06c7df-dbb7-41eb-aa6f-65a2b1d3a0d6",
+      "user_id": "fe68bdc7-9ff0-461b-a00a-2812b3c9f563",
+      "refresh_hash": "$2b$10$GvPSR852cpQKPE2Gw7j0h.2HgdZbsPwVpjuvqkx5Z5aYlK/ultarK",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:15:59.517Z",
+      "last_seen": "2025-12-15T13:15:59.517Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "83090441-0ec4-42c6-8dc2-10eb7c321456",
+      "user_id": "21b8689e-e691-4641-8270-1ce5ae7aef5b",
+      "refresh_hash": "$2b$10$AQ1j1KIWuOmpJcgGFlnmG.OeGvK6m3NHxxb3.OYGzgxShQSt6GBTC",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:18:32.461Z",
+      "last_seen": "2025-12-15T13:18:32.461Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "97e51e73-21fc-4f1a-bbd5-852a7b4c53ac",
+      "user_id": "31d4eb95-046b-41e4-b4b9-b1903f4e2d87",
+      "refresh_hash": "$2b$10$2eJz8YhWlYPmImWoLfJUneyHskZirq0ZX1QCy44xpG5nN68z7Kc6G",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:39:42.096Z",
+      "last_seen": "2025-12-15T13:39:42.096Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "a7cd6277-dddf-4dd9-ad2f-10624284825d",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$9pgnHj1aGHDOiVA/fApdieQi7EM9imFIQ1sFzpZpi9yk5qE9xQ22a",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:44:25.865Z",
+      "last_seen": "2025-12-15T14:44:25.865Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "3157ce79-21b3-484e-9da6-8c628b886b33",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$LtoJOTpcbT3TgiZTbWDzSu4bdXwTLwUK5PohNWsCDoFVqo3akw.Jy",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:45:36.717Z",
+      "last_seen": "2025-12-15T14:45:36.717Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "5142281e-1372-4402-a68d-9e69cbe38b7d",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$b.l2z9OiyWdLZsGdZsDpk.kyrckizyo/98Z1W7jx/RSbfTClrZc3y",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:45:48.324Z",
+      "last_seen": "2025-12-15T14:45:48.324Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "bc1dd26e-e821-4602-93bf-b708c50d3943",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$zEBKLcKjCt5XheN.gjpFLO5V8YBl8Mc.tGYd5EM7jGkMrZugHN8Hq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T15:41:13.699Z",
+      "last_seen": "2025-12-15T15:41:13.699Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "1609dd86-6fc5-4973-a0af-8ece2cd0b0fa",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$JMhIZVL1FEPvFuHIzZRyz.mQAVvV6VOXAvM346ZNdUt0zqmt0IQVa",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T15:44:04.916Z",
+      "last_seen": "2025-12-15T15:44:04.916Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "b41eb45d-51b3-4b1c-b816-63cbebf4f3c0",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$5BBXjGW5i9XTsO.VAj5nruKwJLvkQ840UQtqUFtMNOuzVKphnO7u6",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:21.826Z",
+      "last_seen": "2025-12-16T02:45:21.826Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "4b824577-d0ab-4c18-bdd2-6a6dd56baf68",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$4lWQM3Yd7MFcl5r17ZlOme4lrGLulhaYp4MEErXnIcKuzCvNClkB2",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:33.433Z",
+      "last_seen": "2025-12-16T02:45:33.433Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "644c6fcb-a9d4-4d27-b9ed-89b4a2188603",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$zzXpdAIzAkHeS98dTh7kD.MVK7LBuYvFJ4oGgNbJDt3u8vimx5gPe",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:37.830Z",
+      "last_seen": "2025-12-16T02:45:37.830Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "9490d68d-6007-458f-8fcc-eb67257c41da",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$GvCX/3HLk5EQe8NWoxM18uS9O5DBwof68KgglZH9d6WZ95n.Ek0mO",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:56.159Z",
+      "last_seen": "2025-12-16T02:45:56.159Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "53a50784-3bee-4a5e-beb8-0e072d3985b2",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$YWu9J9tG4C16GhkDtKJhEemjyp03z0YAnVvSS0x4oOk.pdDAM.n86",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:46:07.490Z",
+      "last_seen": "2025-12-16T02:46:07.490Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:07.882Z"
+    },
+    {
+      "id": "13d890b7-2ec6-4692-954a-07ab500436d7",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$7814zJ05vOYQgknLk/TMbeCq.5xkvSvkrE8nLa6zPkUkqgtJWx7BW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:46:20.964Z",
+      "last_seen": "2025-12-16T02:46:20.964Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "745dc56b-7fff-4c5b-af80-78619cff06df",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$n8A9.BewhRP9O35cThGdPOFxtMeNcLsAqq4FM8WSQ16MTD/tnGX56",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:46:57.736Z",
+      "last_seen": "2025-12-16T02:46:57.736Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "0cffcf44-323b-426f-9048-6475cc19a9e9",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$eoJgzOeTycn9mTjCB5i1rOutDjyNv.2CpCo5/mxqNmShRWJhTxSqq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:47:23.773Z",
+      "last_seen": "2025-12-16T02:47:23.773Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:09.357Z"
+    },
+    {
+      "id": "b47befc1-811a-4f01-89d8-416b9117a61f",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$Uyywx6qcILpTl7ktuqNE8u4m0pDGMgl7BPCo7Bfpo5J5VvLYRWpo.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:47:53.950Z",
+      "last_seen": "2025-12-16T02:47:53.950Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:08.755Z"
+    },
+    {
+      "id": "1e816bf7-1464-490d-8f4a-f5684c4c54a5",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$4YXLx22g1nXit0gtjbj5mOgKLwv.3zmd7n7mNw6X9oQbyrZtGz4uS",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:54:02.991Z",
+      "last_seen": "2025-12-16T02:54:02.991Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "6a5084ab-f57f-4846-a129-9a26bfa7b91a",
+      "user_id": "9d789655-4d03-466e-9e8b-b507305262b7",
+      "refresh_hash": "$2b$10$wVR2H6dEAltnmi6pFjNLeON3w9c61aMkeR6EAIGSTKxBAjbB0Zery",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:55:11.300Z",
+      "last_seen": "2025-12-16T02:55:11.300Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "9ad773a0-0fb8-47e1-8db4-f272121ba399",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$qyAfWx38J0S0cgje4NY0ael7.GnnY.fYLVvxY0uGnbveIJoYEoFhq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:55:38.755Z",
+      "last_seen": "2025-12-16T02:55:38.755Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "f2e6bcc5-037e-46c9-806d-5600dd0947eb",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$he8MwOujpsXCsIrwvGgxCeTnS/aHE/HWFyRE.3xS5bFaxeXGZkyPO",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:57:54.476Z",
+      "last_seen": "2025-12-16T02:57:54.476Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:10.178Z"
+    },
+    {
+      "id": "78754fc5-406f-4abe-a409-3f1bee465465",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$gyhOyP863B.dm/0sFaCeHu2OmtKf/8T1jTw4UEDAjvXSvHgfJr6yG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:58:16.069Z",
+      "last_seen": "2025-12-16T02:58:16.069Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:10.896Z"
+    },
+    {
+      "id": "7c5c19cb-e276-4cec-881c-ecde8123d9b3",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$7ZarEGVgNAaodRAiBb51AeyDKVLt6UCELjaJZAo7lF3Z/7rwj/JEC",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:58:31.364Z",
+      "last_seen": "2025-12-16T02:58:31.364Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:11.162Z"
+    },
+    {
+      "id": "2854cd1a-4194-4711-ba28-c30265d14159",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$zLKxseHhmwXarJJU27xVSuMIkdqnP7sRI6b6ITKbHZUrHX/QY.ZWy",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:58:38.846Z",
+      "last_seen": "2025-12-16T02:58:38.846Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:11.563Z"
+    },
+    {
+      "id": "1dc5216a-09dd-4018-98e0-0fde0bd974a0",
+      "user_id": "3b6fedd4-b1fa-40eb-bff4-5ad753f8ad93",
+      "refresh_hash": "$2b$10$tEsvSwzZKgOYOMBruK5T3OJJI40gLK.CEYkxjwwhny7ErL4maftia",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:59:02.006Z",
+      "last_seen": "2025-12-16T02:59:02.006Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "5ff89774-9ad6-43b9-83e4-5514f8aa039d",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$X70vcfNfoMUN8X2mNjqVQuhr8zoWA3ebxwQW9iPY0O9dqt8.sm6rm",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:59:18.932Z",
+      "last_seen": "2025-12-16T02:59:18.932Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:06.339Z"
+    },
+    {
+      "id": "805a0648-e0e0-4b11-a0e4-2d478507c022",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$VmD6UdA9qTLNrPljuZqhau.VMwfK.zCgIiPFeNyoDBB5y3j3B2tne",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:59:25.989Z",
+      "last_seen": "2025-12-16T02:59:25.989Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:11.985Z"
+    },
+    {
+      "id": "dc139cd4-d36a-4993-badc-9517cf88418e",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$DagYMyW2LfJNjVWPhLqWXeJ2rkVmL1JKyfXyof5LE9KPYO4J.nYE6",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:15:59.042Z",
+      "last_seen": "2025-12-16T04:15:59.042Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:12.204Z"
+    },
+    {
+      "id": "89a6eff3-4166-4e6a-bc74-722485f6cdc4",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$Sv7HqSvVbf42C0ep7UIwVOlTSyhke4.bYcaaZyh7AX2hruIFE7Jvq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:16:26.163Z",
+      "last_seen": "2025-12-16T04:16:26.163Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:12.669Z"
+    },
+    {
+      "id": "944ddf8a-dab1-4cbc-b3c9-742dd5f9b461",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$ImOHzRTcyooUpNax8fPfe.hPXYUyskRqG2uGoqsDWjgoFyvKU.YH.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:18:27.997Z",
+      "last_seen": "2025-12-16T04:18:27.997Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:03.207Z"
+    },
+    {
+      "id": "7403ad98-a7da-4eba-bca6-2af4d23d32a7",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$bAtLuRpqvt4kv6XVUGcUquXh1xv9f7qhxozjQzgHlf4wBiokspC0q",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:18:56.175Z",
+      "last_seen": "2025-12-16T04:18:56.175Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:13.011Z"
+    },
+    {
+      "id": "f336d3a9-fa27-44f2-987b-c5b32e11d0a4",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$mNGaW79gLRfidKM98o16bOiciPb2CzRsw6mzlRo./Gss1ZOQHO6eW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:20:38.233Z",
+      "last_seen": "2025-12-16T04:20:38.233Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:42:04.214Z"
+    },
+    {
+      "id": "32b8c3ee-1300-4d87-86d4-355c6478ebcf",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$GUGlMDJpWz13lRT8Y3EHJOi8ZBE2xZbUa5kvBgDz8.LDpu7Ux7R7O",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:24:33.485Z",
+      "last_seen": "2025-12-16T04:24:33.485Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "691e7049-5d70-4535-9024-575d16287940",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$/J7bK184cEDqTmV40m91sezNXfZrV/6efvLL9asuG9K7cvMDZYo2e",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:26:58.654Z",
+      "last_seen": "2025-12-16T04:26:58.654Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:37:04.892Z"
+    },
+    {
+      "id": "a6f4aa77-082a-454e-99d5-0ef1464dfdca",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$vsYfTL5lACOiSqqG259fn.XyoR7iwhz2OOJ9m3Le7spVbS8BoJM0a",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:22:03.883Z",
+      "last_seen": "2025-12-16T06:22:03.883Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:37:05.418Z"
+    },
+    {
+      "id": "e16dfd3c-a094-4890-aea5-568b9a71f4aa",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$xGxCl5lrIPu61UIsqtJAgOsNcBxU/rrQlfEYzvHXziMiBmFxQbTTG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:22:10.950Z",
+      "last_seen": "2025-12-16T06:22:10.950Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:37:06.054Z"
+    },
+    {
+      "id": "2ec31b45-4c00-4e35-ade6-19964faf836e",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$tkSXsir1w/mjp/7w5nhJeex70PFEeobiftVMsDgRF/T5vC1iTiu4m",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:50:11.051Z",
+      "last_seen": "2025-12-16T06:50:11.051Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:38:51.434Z"
+    },
+    {
+      "id": "5c7601fa-f1bf-43ed-acb5-394308b42caf",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$p7qQ5Ojteu8n2hYVgkRcL.6T3Rfkfbvzj8y1gG9ZIWcx2ATAFxkbq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:59:51.468Z",
+      "last_seen": "2025-12-16T06:59:51.468Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:36:58.560Z"
+    },
+    {
+      "id": "a62fce4d-d579-48e9-be6a-e948a992344b",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$APPKchu0Cf1oCJ1gEtCZC.VJhT5R/lbiBxXZV/O8okbKRF9XzP2mW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:07:51.812Z",
+      "last_seen": "2025-12-16T07:07:51.812Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "f9ca3cc2-c260-442b-af16-5e6c5b9d8cf6",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$a8qVIr3ShsFkbkqcnMTJ3e6bUu4YpMTO4jaQY3yXCxn2PDRTxqjNW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:13:07.701Z",
+      "last_seen": "2025-12-16T07:13:07.701Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "22c0e3f0-cd99-4ddd-bba8-d771b6a129de",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$urRqpQd0/7vJd3SqLpVe5elzWILkch2mnbAPt0GvEumJHqwEb9JRC",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:19:00.500Z",
+      "last_seen": "2025-12-16T07:19:00.500Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:36:51.755Z"
+    },
+    {
+      "id": "ba7700ef-43e8-400c-9c1d-71bd2911abef",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$ZdEXJmmApBN4RM21bIaHCe06n6UOuUXsW7Zh1R1jSQIcZ8nM1nlqe",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:58:07.271Z",
+      "last_seen": "2025-12-16T07:58:07.271Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:37:07.436Z"
+    },
+    {
+      "id": "66dccd84-3806-4666-b680-21e828aee074",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$tZaaI4wUwiSCaqb2b0mBCuJ6LHcHfK7a4.vUV1VGEJykBRJtHcnUS",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:58:56.270Z",
+      "last_seen": "2025-12-16T07:58:56.270Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:37:07.047Z"
+    },
+    {
+      "id": "f0d86fdf-bfa5-4575-8f5b-e4255e5859db",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$4CquOj/lzIh0SreUBAB5ee.GtnxYzpDXD.Fr3RldAeNspMjYrk1aK",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:10:13.866Z",
+      "last_seen": "2025-12-16T10:10:13.866Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:37:06.613Z"
+    },
+    {
+      "id": "e9201bab-cf68-47fb-a4e7-0136368297f7",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$ZVg3rRZeWOWeT6PVlJViHuQDx8Bdg6vbbRG556vq.hc.4fSCmSv0q",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:26:26.137Z",
+      "last_seen": "2025-12-16T10:26:26.137Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:36:45.431Z"
+    },
+    {
+      "id": "a95da9e5-2225-480c-8c8a-777f4012d5a6",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$Zw2zJloaDe2xe50NeDZFc.A.quqO/ZErXexzEsQ3VQlzrunLnc2uq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:38:38.448Z",
+      "last_seen": "2025-12-16T10:38:38.448Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:38:43.323Z"
+    },
+    {
+      "id": "8dc53c12-44b2-41b4-a8ef-60293bc4d215",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$i6vU5Wcm8L2QrZdjx5qv7.3k1muo/n7A/UfIcdKUxhCOdsqFRGD1u",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:38:48.388Z",
+      "last_seen": "2025-12-16T10:38:48.388Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:38:52.535Z"
+    },
+    {
+      "id": "82a6c57d-5a3c-4544-bbcf-50e14052a03b",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$VNyMBRFomoFZI07pF16VG.8TV2rbfExFxRDytUUk7hO2myLubWbiq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:41:58.031Z",
+      "last_seen": "2025-12-16T10:41:58.031Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:45:06.005Z"
+    },
+    {
+      "id": "1b859746-35f0-4a5e-9b86-6c61108fc84f",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$CiK7C5gWkxjBV5aQGZy5lOCi29b8ljmVruuvOJ.Umop6NT/1y4TuG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:45:32.825Z",
+      "last_seen": "2025-12-16T10:45:32.825Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:47:50.814Z"
+    },
+    {
+      "id": "67120244-d534-4637-ab04-93201cdb9213",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$bt7DqW8Ulv6o9NfVseqD.eTcmEc1STF32qerIssYw.D9yHhRPzuFS",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:12.019Z",
+      "last_seen": "2025-12-16T10:48:12.019Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:50:46.686Z"
+    },
+    {
+      "id": "12818b86-fafa-4d84-b786-20ecaf0b8b49",
+      "user_id": "fe68bdc7-9ff0-461b-a00a-2812b3c9f563",
+      "refresh_hash": "$2b$10$2DGTggYWvN2fgusl.1i/gu5kHJulf2ES3Yv..ppsOIbVci3xWargK",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:19.372Z",
+      "last_seen": "2025-12-16T10:48:19.372Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "b2be7aee-db39-4d02-9da8-c09c5928fbfa",
+      "user_id": "b0e0c11b-0199-41d0-8a17-25bbdc927a75",
+      "refresh_hash": "$2b$10$rjbsu3P6w.6aYvLZRGU2rulTpdjA8ngIMUSJd65mDPGQbYGVQs6NW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:48.726Z",
+      "last_seen": "2025-12-16T10:48:48.726Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T10:48:58.165Z"
+    },
+    {
+      "id": "1a7354d9-98a9-4e4d-a310-2e53fdd99b0f",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$OwlxRLpf6342o2HgXY2xwO.MmEZeWkuFpm.fbq5udaRb6pN2dFqD.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T12:00:58.267Z",
+      "last_seen": "2025-12-16T12:00:58.267Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T12:02:31.268Z"
+    },
+    {
+      "id": "da9fbae4-d798-4076-ac8c-0d617b73b360",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$xsuUoPGpAFHmwk4WlAyCsOrfuvPZrAc1dXY.zXFeM.Xe53Y2BvoIu",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T12:59:34.893Z",
+      "last_seen": "2025-12-16T12:59:34.893Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:50:46.686Z"
+    },
+    {
+      "id": "d2187fdc-51be-4437-bd71-ff7ef1ea98aa",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$Zy0FN/Oqot9i3lgPPshqCOuHLbbMBUm5R/GIt3LG2qfiAtQf2.lJG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T13:53:57.921Z",
+      "last_seen": "2025-12-16T13:53:57.921Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "daccc3a5-f24a-451b-a407-03d27ec0454f",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$lChZ7wLeobEWG.MOOcgKVuEnso6i8Fo6G2Fu/BorfzRqPAqltIYgu",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T13:55:41.731Z",
+      "last_seen": "2025-12-16T13:55:41.731Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "10ed0d65-07b3-4a45-9087-06baaa97f71a",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$08rWQznzEvXsrVFNij5v9edOayQfSf5kEsjFu3FBj7kdlx.3nna8W",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:03:49.205Z",
+      "last_seen": "2025-12-16T14:03:49.205Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "daa49bab-45c5-4986-83b4-4e7d037fbbe9",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$dfLICDbbrUgGCH00q1PyieK9T.2gGRzljEc8FvdM39.62RZXmqloq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:10:45.290Z",
+      "last_seen": "2025-12-16T14:10:45.290Z",
+      "revoked": true,
+      "revoked_at": "2025-12-16T14:31:51.753Z"
+    },
+    {
+      "id": "b1535f85-f790-4e51-9be8-d18186ed8850",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$UkMBwrKFw1.uxCIPJ.J1GOgJQzfbkSeN.H5mkGet3sWD4xyjngtI.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:21:51.041Z",
+      "last_seen": "2025-12-16T14:21:51.041Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:48:35.235Z"
+    },
+    {
+      "id": "9b70aed9-479b-41f0-8f00-26455472af34",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$ypf4QlzD8tkpw9ennOeiC.z90VUO.Fashj3oI6p1.Sg772pUajOy.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:25:50.119Z",
+      "last_seen": "2025-12-16T14:25:50.119Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "3f69683a-f856-4769-9269-4cbba4b6e81b",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$ObazgSPW5wXyyb2yZ8dUIe.ysCCRR8dfWZ7ot82R550eCqjke0r8a",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:32:02.423Z",
+      "last_seen": "2025-12-16T14:32:02.423Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T12:59:40.256Z"
+    },
+    {
+      "id": "ce2112f5-3e6b-49cd-a03d-a3b7eb5ac602",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$uukJI0fuonpHn5glbEiMfeh3bZkaGM4W5e7u3.wU068APsa75TyuG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T07:17:54.383Z",
+      "last_seen": "2025-12-17T07:17:54.383Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:48:31.565Z"
+    },
+    {
+      "id": "6e6b2dc3-2763-43db-81ee-e3be06764bcf",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$C.a4KaUAHYYUdazKpwj6S.m5HdCgsqQy4GsqdYgERwRBwWelvJb8.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T07:33:31.350Z",
+      "last_seen": "2025-12-17T07:33:31.350Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "c54924a3-d920-401d-bdd0-f0871d7bddfa",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$0/.ohjmdwEzB6i2s624jgeHh9fgCiHOqCdyxTXRkNhoIFbHb3sVxm",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T07:46:17.128Z",
+      "last_seen": "2025-12-17T07:46:17.128Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:48:32.298Z"
+    },
+    {
+      "id": "c5bf2774-8b08-4f00-adcc-e011671e41c8",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$rhdi3V2Ar9r0HZ6jrivtBewesE1SXuL.MNBLiEzJT9ayYX2cprPvi",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:01:31.417Z",
+      "last_seen": "2025-12-17T08:01:31.417Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T09:34:17.860Z"
+    },
+    {
+      "id": "606a7f3f-26e8-4df1-916d-20b41ffd7ef6",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$G7JpCxt1TCTxDgftoWyorOea5gedI/R2cP1zJwYedMd6Y8bcGeQDO",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:14:17.302Z",
+      "last_seen": "2025-12-17T08:14:17.302Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:50:46.686Z"
+    },
+    {
+      "id": "d4aaac8a-1503-400a-b895-633525910a6b",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$9uWGue7kwhcAmLCgZYEGAeL4Z6w8LEYR1jW6hwHEPHvbEcs9zWlVq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:35:29.827Z",
+      "last_seen": "2025-12-17T08:35:29.827Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:50:46.686Z"
+    },
+    {
+      "id": "351fecee-c4db-49b8-96e9-9a3a16fc85ae",
+      "user_id": "b3499983-5be5-4fe9-ba10-dab50527b440",
+      "refresh_hash": "$2b$10$Tara7nEkovOOfSdnvsG6HOJsY3jQ1Dk18bBLT8XGQYhyhnkhn0TMa",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:43:58.155Z",
+      "last_seen": "2025-12-17T08:43:58.155Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "cb998ae0-c119-4407-9742-9f3afa141803",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$mX9zi5LDMpxm/G/ZxVmixuAzxHo9epXwF49Ng2xF2D5f0VUEIbjd6",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:45:05.917Z",
+      "last_seen": "2025-12-17T08:45:05.917Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "0b6528ab-435b-4a7b-b200-f06565e1c0d2",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$MMyZpCUv.6lmp/rSJLpD4.J8z6XXyEOAe8VElFEP5ZmcQon8znSx2",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:47:07.114Z",
+      "last_seen": "2025-12-17T08:47:07.114Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "c029b43c-d409-46cf-b471-9815f5ac15df",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$rpceAu3M744FIWQv0RUZnebrAq.MdG44mP4GIj2n1.ZxP7OLTjvLK",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:50:27.911Z",
+      "last_seen": "2025-12-17T08:50:27.911Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T08:50:46.686Z"
+    },
+    {
+      "id": "71c1c7d0-1409-4b0c-bd2d-824821a2875e",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$Mg65M1SQLLy.4oKmvepCAOzYva7.YEjb3cfoLXfsNVFE8vlHAhIKS",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:51:11.827Z",
+      "last_seen": "2025-12-17T08:51:11.827Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "06b184fd-36ac-4cc9-8bee-9aa25332cf16",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$AqpqRli/GSyCUsqrd8nTkOZgwFWrF7AV8kI8HOLYSZoMOMfj7KHym",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:52:43.309Z",
+      "last_seen": "2025-12-17T08:52:43.309Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "ec5d206e-202f-4f0a-b2a7-10169338d398",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$TjLv6s8hXleMGYaTrXgsu.OMLxp8TuKMXXXzpPiS45a9jwdAEzNBy",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:53:54.651Z",
+      "last_seen": "2025-12-17T08:53:54.651Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "af151735-6822-40e3-8d9e-b134d03a5d91",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$p82f3FxBJkCzOVszdXeP.OdK7ui32HSt7XSiUI3yivlA3S/hdCBWO",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:59:09.344Z",
+      "last_seen": "2025-12-17T08:59:09.344Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "3f269117-3d56-4068-9df7-20317010b8be",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$b2D3yiYYZbuBtMlt0R2pVOopTyv6IiIzAmvPciHb.Xxzpm2jWydbK",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:04:57.174Z",
+      "last_seen": "2025-12-17T09:04:57.174Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "59d6b636-c2f0-482e-93d8-9c8a9f7f860c",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$A3FJI0ireL4V049fP1vfJ.CbpqP.gDzak8ofUsrOtN5XizrE5.qkq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:06:09.841Z",
+      "last_seen": "2025-12-17T09:06:09.841Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "011304f9-5021-4365-ae55-89d5b4d1739a",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$b.Jn2odgKObyWkOg9ZDyxuL3OVT0bWEefKiS5u6CTIUW4Q5zJOEFq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:15:07.327Z",
+      "last_seen": "2025-12-17T09:15:07.327Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T09:34:16.804Z"
+    },
+    {
+      "id": "bbd7f560-353f-487d-8b9b-c16a9b68f8cb",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$OdeD0uj.tPv1t1IuuBu1NubeIsFlhRt3Nuoi95kDHXnHe35DhP496",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:33:26.609Z",
+      "last_seen": "2025-12-17T09:33:26.609Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T09:34:15.593Z"
+    },
+    {
+      "id": "38b5398f-122b-47a6-ba5e-896894cdcd5e",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$.d64nCT0.96w65XQqQ6Wf.QMW1ygGSOyKy7VaXG/y2ieVH4I6gkyi",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:34:23.811Z",
+      "last_seen": "2025-12-17T09:34:23.811Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "35133280-88e3-4b62-b4f0-04e0fd6c8e94",
+      "user_id": "ad145a1a-9c5a-4a61-a65d-1883f64aa474",
+      "refresh_hash": "$2b$10$iAd7BMUJh/3kDYHr5wM9Zeawhg5SiqnTMmxYwvyHzXhQUMWnt5Vje",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:36:37.873Z",
+      "last_seen": "2025-12-17T09:36:37.873Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "2fd16897-b4ce-407f-8c14-27db2420033c",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$xmwCYqHGheQrGhsgtB4jFOHz7BuQWxazN70ViFrvmUlgeRKkEz4aS",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:54:00.086Z",
+      "last_seen": "2025-12-17T09:54:00.086Z",
+      "revoked": true,
+      "revoked_at": "2025-12-17T12:59:38.349Z"
+    },
+    {
+      "id": "db0a2217-b24c-46d1-bcf3-463e6a7f4cd8",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$a8CRPrrYdrLz9NCJKEkgNuHlSKENyUjXnXALCW7Y.lSiQQBeAhBGO",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T10:29:29.355Z",
+      "last_seen": "2025-12-17T10:29:29.355Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "8e15fe73-301d-4699-badc-553651cf7a10",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$QK51Ogd8/JHobpW4MXzkeOUDI4HFgXKB0Y5XBnJgw8gLVDPaDeX8u",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T12:59:32.066Z",
+      "last_seen": "2025-12-17T12:59:32.066Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "eac323b3-34a5-4777-8a6f-474e82c34d94",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$9OYagAwnHKnNPZ6IcyG6rOQQL0rUwjGK81dXNP/endsk1aTYmaEGG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:33:02.130Z",
+      "last_seen": "2025-12-18T06:33:02.130Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "5f0a9751-dcbc-4e83-8c6b-8c44bf4b07ee",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$M.ds4p3CcgZNpcos6maLrOfIiekEuAgflL5x0/KHRItF/iPsgUo6G",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:33:14.659Z",
+      "last_seen": "2025-12-18T06:33:14.659Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "6784da4c-1fc9-482a-93e9-bde7e1efe001",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$fYSqcFhQngRo3lGyx/mXqey/qiaDRVuN4DoL5E7zt3XS8gTXQ1V4q",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:33:52.219Z",
+      "last_seen": "2025-12-18T06:33:52.219Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "4f9b330b-28d9-4320-bcbb-4f1c093f53c6",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$z0V5c12TUaOmVQMVmZwreOiBe2lAiq576V7t0ZDLE4kdXvMKDRAni",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:51:06.858Z",
+      "last_seen": "2025-12-18T06:51:06.858Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "4d6c3f6b-c1de-4749-80c6-aaee252f2954",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$JnJUiqZYaXxAXeEVkcLlO.mGLNyURYci31lRbbHqKV70RcRGdMFt.",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:53:30.759Z",
+      "last_seen": "2025-12-18T06:53:30.759Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "ded868b1-7239-4908-8b52-9115e4ad95a6",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$Ym1cRjz8ZA2W.GGhcUaTEu5FovGN2RhZS7OJK04KJDuXdcZi.S/76",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:54:47.184Z",
+      "last_seen": "2025-12-18T06:54:47.184Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "1c5650c2-ebab-4335-9e67-a64a73b102ea",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$MHev9Cbb1GSUV0QqqEKWd.5.lpdaA4ypBsVb2shuEFyc/M2H0.pym",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:01:36.588Z",
+      "last_seen": "2025-12-18T07:01:36.588Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "19800378-6ca6-4625-9bed-5f3c4c693a24",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$RELh4gq/x5Q2Ugmfy0Si9OWPeRXtLZmy8OT2KRYQOMNgusZKSXKBe",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:06:36.678Z",
+      "last_seen": "2025-12-18T07:06:36.678Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "164bff35-5d1c-4af0-a4f4-51248864c38d",
+      "user_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "refresh_hash": "$2b$10$hgoBWgrc0RRgTibSe14z8OjOAZ2uxf4AGs.EhXo8BXO/6ThHjuJgy",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:08:09.679Z",
+      "last_seen": "2025-12-18T07:08:09.679Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "2cc9b596-2299-4c01-8a4d-96d0ef135f1c",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$kBysKb473hEPsyCNzvpvc.Y9HpQE1Ndkiuf6q4mlWW0D5RbdWO0ri",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:08:15.374Z",
+      "last_seen": "2025-12-18T07:08:15.374Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "4d2da1fe-61db-469d-87d1-c390e2d70ad0",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$5cwoT5SFNanT1eQI6ynTo.n/EWoKGLGBkxauYzXb/WIjQmRFeoc5y",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:24:21.054Z",
+      "last_seen": "2025-12-18T07:24:21.054Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "2d0f8b9e-4ea5-418f-a4c7-d7c869d35ceb",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$l1oH2ZyP9G8NWb7r555.Wex72FEl1oDhY8RpAFKGMPgZT0hkApyLi",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:39:51.384Z",
+      "last_seen": "2025-12-18T07:39:51.384Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "1a5c1842-9e53-4d7d-92ea-e7687ab12b13",
+      "user_id": "d29fd6e6-84d1-4321-afe7-75a772183743",
+      "refresh_hash": "$2b$10$dms24dhb4jIkUjIqxX9BAe2JOYySc/5X1z0dIGNKl8rFlGOE71qL6",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:50:42.061Z",
+      "last_seen": "2025-12-18T07:50:42.061Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "45a4fbb8-359d-475f-81a5-310e5fe66fd6",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$pcgPq0racDOlSguuaHLW0eCaPrO8J2Y4CwV2Ypz8k/sOD0PAlR2LG",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:50:50.774Z",
+      "last_seen": "2025-12-18T07:50:50.774Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "0a3d653f-d252-4542-a8bd-d64ff97f0423",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$GcfGWXbGgWYDqk5lKAZXjuZN.CDt87CdZ9f5lf8uCdr6DljiQZIVq",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:11:09.336Z",
+      "last_seen": "2025-12-18T08:11:09.336Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "6dc6a52f-9ccb-475f-ba62-784eeba6ac9d",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$L6K1btdfQ2t4AWpn5np66e1Z5cO7pNEPbFWE.YrM9ldKk4syRAn9y",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:12:20.843Z",
+      "last_seen": "2025-12-18T08:12:20.843Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "322fc6b0-f782-4613-9640-33b5ef1a0e3a",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$I8v4nUWwG63KURR/1xcjBOT22HtcXww4xKexQ7PnQ5iWcLnmSVuH2",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:25:05.188Z",
+      "last_seen": "2025-12-18T08:25:05.188Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "178bd6cd-bb56-44e5-ac0b-f77163fa0803",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$cKABEsE/W7J1IUkGKpqJZOJYFhAy1bM8bzxVTtqGJ5aGD82QkHxsW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:25:20.391Z",
+      "last_seen": "2025-12-18T08:25:20.391Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "a0a664e9-252b-48d3-9c19-de67ed5f07d4",
+      "user_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "refresh_hash": "$2b$10$Mk7DhUpFiqANQT3KB6XCCeEWlLDM..KX/kzZatJFUJdD0qShj5VGW",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:25:45.202Z",
+      "last_seen": "2025-12-18T08:25:45.202Z",
+      "revoked": false,
+      "revoked_at": null
+    },
+    {
+      "id": "f72f0995-bfa8-49c3-8270-31235655c140",
+      "user_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "refresh_hash": "$2b$10$MmWADRK.1QLKxJYLwHpwruTIDKD39iT8PoPBaM/fhdyW3O3DLhq3m",
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:26:00.872Z",
+      "last_seen": "2025-12-18T08:26:00.872Z",
+      "revoked": false,
+      "revoked_at": null
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "1b838d14-4a4c-4167-bd1e-86d6ba78f298",
+      "actor_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "action": "SESSION_REVOKED",
+      "ip": "239.69.90.54",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_7 rv:2.0; IT) AppleWebKit/534.2.0 (KHTML, like Gecko) Version/5.0.3 Safari/534.2.0",
+      "created_at": "2025-11-02T12:20:59.981Z",
+      "meta": {}
+    },
+    {
+      "id": "004ad679-fe35-4aa7-a3ca-6b8f028eac52",
+      "actor_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "action": "VERIFICATION_SENT",
+      "ip": "155.212.116.245",
+      "ua": "Mozilla/5.0 (X11; Linux i686 AppleWebKit/532.1.1 (KHTML, like Gecko) Chrome/27.0.885.0 Safari/532.1.1",
+      "created_at": "2025-12-04T23:29:30.487Z",
+      "meta": {}
+    },
+    {
+      "id": "8f433d74-1313-4d87-8d40-9ffe4f26a16c",
+      "actor_id": null,
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "bf20:b4c9:955e:d7a5:be48:1af7:2d00:7712",
+      "ua": "Opera/13.6 (X11; Linux x86_64; U; NN Presto/2.9.170 Version/12.00)",
+      "created_at": "2025-11-27T18:29:42.163Z",
+      "meta": {}
+    },
+    {
+      "id": "04b32e10-ab78-4cde-98d0-e07ab67d3021",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "241.102.62.77",
+      "ua": "Mozilla/5.0 (Windows NT 6.0; rv:13.6) Gecko/20100101 Firefox/13.6.0",
+      "created_at": "2025-10-28T09:22:29.989Z",
+      "meta": {}
+    },
+    {
+      "id": "5c27f9e3-baf3-4c6a-8522-6b316fec5a5a",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "ccc1:0dfd:7c1d:44fc:7a1f:80fa:508b:a8ab",
+      "ua": "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; rv:11.0) like Gecko",
+      "created_at": "2025-11-17T05:19:41.427Z",
+      "meta": {
+        "device": "tablet",
+        "location": "Federal Way, Guadeloupe"
+      }
+    },
+    {
+      "id": "1dea31ac-31c0-4512-897d-a2205fc4d0d2",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "VERIFICATION_SENT",
+      "ip": "11.12.34.2",
+      "ua": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_5 rv:3.0; FI) AppleWebKit/534.0.2 (KHTML, like Gecko) Version/5.0.10 Safari/534.0.2",
+      "created_at": "2025-10-20T10:13:04.492Z",
+      "meta": {}
+    },
+    {
+      "id": "d55929de-d3f6-4fe0-aea9-0ccb6ecb1059",
+      "actor_id": null,
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "bd65:ec7f:1902:acdf:fd20:b560:ec7e:297a",
+      "ua": "Mozilla/5.0 (X11; Linux i686 AppleWebKit/532.0.0 (KHTML, like Gecko) Chrome/21.0.877.0 Safari/532.0.0",
+      "created_at": "2025-11-01T13:31:00.834Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Lake Lavernetown, Republic of Korea"
+      }
+    },
+    {
+      "id": "816bd982-fc63-40b0-bd26-a1c744402fec",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "VERIFICATION_SENT",
+      "ip": "1c4b:61ca:fbca:65e1:0b0f:9df3:bed9:19ac",
+      "ua": "Opera/12.6 (Macintosh; Intel Mac OS X 10.7.1 U; TR Presto/2.9.182 Version/11.00)",
+      "created_at": "2025-11-11T04:01:59.657Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Sherwoodmouth, Japan"
+      }
+    },
+    {
+      "id": "0451c2cf-6afc-40b7-94a9-35608fc6fcae",
+      "actor_id": "90464b76-0924-491a-a12d-52e514100110",
+      "action": "PROFILE_UPDATED",
+      "ip": "3fdd:5cfd:6fb8:b69d:08ba:4bf3:cb2e:e5be",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.2)AppleWebKit/532.1.2 (KHTML, like Gecko) Version/6.0.1 Safari/532.1.2",
+      "created_at": "2025-11-26T22:12:39.592Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Erniestad, Mauritania"
+      }
+    },
+    {
+      "id": "d74c54c6-b2d6-4b3c-a90c-5936cbd526c9",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_FAILED",
+      "ip": "145.154.32.107",
+      "ua": "Opera/13.18 (Windows NT 5.1; U; MG Presto/2.9.188 Version/12.00)",
+      "created_at": "2025-12-15T03:43:31.315Z",
+      "meta": {}
+    },
+    {
+      "id": "37ddfbd1-4351-4cae-8cb2-6f1625a8b0d0",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "SESSION_CREATED",
+      "ip": "76.120.78.82",
+      "ua": "Mozilla/5.0 (Windows NT 6.0; WOW64; rv:7.9) Gecko/20100101 Firefox/7.9.6",
+      "created_at": "2025-11-07T19:35:57.278Z",
+      "meta": {}
+    },
+    {
+      "id": "7eb5388a-697b-4d8c-ac4d-2ba8e859401e",
+      "actor_id": null,
+      "action": "SESSION_REVOKED",
+      "ip": "228.79.188.65",
+      "ua": "Mozilla/5.0 (Windows NT 6.3; rv:13.6) Gecko/20100101 Firefox/13.6.7",
+      "created_at": "2025-11-20T14:25:57.375Z",
+      "meta": {}
+    },
+    {
+      "id": "f6acfedd-1800-4422-8898-3de7dade5b65",
+      "actor_id": "90464b76-0924-491a-a12d-52e514100110",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "40.44.117.153",
+      "ua": "Mozilla/5.0 (X11; Linux i686 AppleWebKit/535.2.1 (KHTML, like Gecko) Chrome/35.0.882.0 Safari/535.2.1",
+      "created_at": "2025-11-07T18:56:16.923Z",
+      "meta": {
+        "device": "desktop",
+        "location": "South Floy, Morocco"
+      }
+    },
+    {
+      "id": "56872f9e-6e9d-4163-ba63-dabadc27e7c3",
+      "actor_id": null,
+      "action": "USER_REGISTER",
+      "ip": "219.236.18.210",
+      "ua": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10.9.0; rv:13.0) Gecko/20100101 Firefox/13.0.9",
+      "created_at": "2025-12-03T13:28:27.496Z",
+      "meta": {}
+    },
+    {
+      "id": "14a46c95-894a-4977-be82-d7a47a14dcf0",
+      "actor_id": null,
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "184.25.83.124",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3)  AppleWebKit/534.2.0 (KHTML, like Gecko) Chrome/30.0.852.0 Safari/534.2.0",
+      "created_at": "2025-12-06T21:43:57.712Z",
+      "meta": {}
+    },
+    {
+      "id": "c7b6fff8-1b3e-4dcc-886b-99c08ca17117",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "60.23.238.95",
+      "ua": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; Trident/6.1; .NET CLR 2.5.57918.4)",
+      "created_at": "2025-11-30T01:19:25.301Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Lonniestead, Bolivia"
+      }
+    },
+    {
+      "id": "c715db70-4733-470f-94ce-fa57ddfcb9a2",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "f2c7:da81:8bff:c0c0:8ca5:feaa:ef34:3ef4",
+      "ua": "Opera/14.99 (Macintosh; Intel Mac OS X 10.6.3 U; KG Presto/2.9.177 Version/11.00)",
+      "created_at": "2025-10-21T11:38:22.827Z",
+      "meta": {
+        "device": "desktop",
+        "location": "East Juvenalhaven, Samoa"
+      }
+    },
+    {
+      "id": "8a4fd1fd-43d0-4854-8b05-f63281ca030e",
+      "actor_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "5c29:f1bf:14eb:d1cd:a275:f35f:ee7b:d4a8",
+      "ua": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; Trident/7.0; .NET CLR 1.0.27259.7)",
+      "created_at": "2025-11-28T09:06:00.209Z",
+      "meta": {}
+    },
+    {
+      "id": "3e37a852-6d19-40b7-89b7-6ea670ec83ec",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "SESSION_CREATED",
+      "ip": "167.139.70.54",
+      "ua": "Opera/10.6 (X11; Linux x86_64; U; HE Presto/2.9.181 Version/12.00)",
+      "created_at": "2025-10-17T21:17:27.140Z",
+      "meta": {}
+    },
+    {
+      "id": "1f653c23-0179-46d2-b7f5-81ebadff18ea",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "66.135.208.251",
+      "ua": "Opera/10.78 (Windows NT 6.3; U; JV Presto/2.9.164 Version/12.00)",
+      "created_at": "2025-11-20T03:03:51.477Z",
+      "meta": {}
+    },
+    {
+      "id": "492b1257-d8d8-4203-81ec-d7e32f52b7f5",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "VERIFICATION_SENT",
+      "ip": "176.189.76.195",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64; rv:6.5) Gecko/20100101 Firefox/6.5.5",
+      "created_at": "2025-11-26T09:47:46.686Z",
+      "meta": {}
+    },
+    {
+      "id": "9a74f7d1-0a7f-4645-9830-262cf4dca547",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "4bcc:fde5:b30c:e899:ffc0:d94d:63f4:e0f3",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko",
+      "created_at": "2025-10-28T00:41:36.178Z",
+      "meta": {}
+    },
+    {
+      "id": "47bb9b5f-dd7e-4c82-9eea-0ed711a18ad5",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "SESSION_CREATED",
+      "ip": "4cee:caf6:b05c:a1f8:99fc:bdb4:85db:c670",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.1)AppleWebKit/537.0.1 (KHTML, like Gecko) Version/4.0.4 Safari/537.0.1",
+      "created_at": "2025-12-06T10:52:16.718Z",
+      "meta": {}
+    },
+    {
+      "id": "c9ed77e1-0b05-4001-bc5f-185c130db3a7",
+      "actor_id": null,
+      "action": "USER_REGISTER",
+      "ip": "05c8:fb5d:5ec4:7aba:5f9f:fd5b:fa9c:fbb2",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 6.3)AppleWebKit/535.0.0 (KHTML, like Gecko) Version/4.1.7 Safari/535.0.0",
+      "created_at": "2025-10-24T22:48:28.054Z",
+      "meta": {}
+    },
+    {
+      "id": "d446db44-96d6-4b18-a9eb-68be1f11ddbf",
+      "actor_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "d4d6:b9cc:8a91:352b:6928:ebdb:baa1:748d",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_6 rv:3.0; DE) AppleWebKit/535.0.2 (KHTML, like Gecko) Version/6.0.8 Safari/535.0.2",
+      "created_at": "2025-11-16T10:50:37.275Z",
+      "meta": {}
+    },
+    {
+      "id": "a52d1325-d404-412d-9793-caf2fbe14a49",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "VERIFICATION_SENT",
+      "ip": "cbab:f18a:bbbe:4bbc:e31b:bf35:1fd1:0add",
+      "ua": "Mozilla/5.0 (X11; Linux i686 AppleWebKit/535.1.2 (KHTML, like Gecko) Chrome/33.0.833.0 Safari/535.1.2",
+      "created_at": "2025-10-18T19:59:29.678Z",
+      "meta": {}
+    },
+    {
+      "id": "956dc5b3-b025-4506-acdb-a64c359edf7a",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "VERIFICATION_SENT",
+      "ip": "fe1f:35e2:cfc1:75a6:0d3d:7e82:81d3:32da",
+      "ua": "Mozilla/5.0 (Windows NT 6.3; rv:13.8) Gecko/20100101 Firefox/13.8.8",
+      "created_at": "2025-12-13T11:40:17.804Z",
+      "meta": {
+        "device": "desktop",
+        "location": "State College, Senegal"
+      }
+    },
+    {
+      "id": "f6dfe30e-d285-4ef0-9148-e00a8782a965",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "30.209.178.56",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.3)AppleWebKit/537.1.1 (KHTML, like Gecko) Version/4.0.9 Safari/537.1.1",
+      "created_at": "2025-10-22T14:08:11.241Z",
+      "meta": {}
+    },
+    {
+      "id": "195c2b6c-a9b2-4e51-835b-ee7d7ee41a42",
+      "actor_id": "90464b76-0924-491a-a12d-52e514100110",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "209.143.30.183",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_9 rv:6.0; SR) AppleWebKit/536.0.2 (KHTML, like Gecko) Version/7.0.5 Safari/536.0.2",
+      "created_at": "2025-12-06T05:59:17.007Z",
+      "meta": {}
+    },
+    {
+      "id": "163453fb-7260-4119-a693-f66be932e072",
+      "actor_id": "90464b76-0924-491a-a12d-52e514100110",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "c858:eff4:fe8e:6ede:0722:c51d:07b0:890f",
+      "ua": "Mozilla/5.0 (Windows NT 5.1; Win64; x64; rv:5.6) Gecko/20100101 Firefox/5.6.0",
+      "created_at": "2025-11-14T11:11:43.498Z",
+      "meta": {}
+    },
+    {
+      "id": "9da54aac-8fc7-4fe9-8777-d77adfd8c4ab",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "PROFILE_UPDATED",
+      "ip": "90.86.102.48",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3 rv:3.0; BE) AppleWebKit/532.2.2 (KHTML, like Gecko) Version/6.1.9 Safari/532.2.2",
+      "created_at": "2025-12-07T17:55:00.509Z",
+      "meta": {}
+    },
+    {
+      "id": "85201f48-f19d-4f9b-b7e3-e7f31b066486",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "0fc1:aae8:c664:9bfd:e40c:ebcb:eb30:70ab",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4 rv:4.0; PL) AppleWebKit/537.1.2 (KHTML, like Gecko) Version/5.0.0 Safari/537.1.2",
+      "created_at": "2025-11-26T03:07:32.954Z",
+      "meta": {}
+    },
+    {
+      "id": "7fe2eafa-b942-45d7-81ff-aa0f0f24c5ff",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "6fca:fbe5:484b:9afb:4bda:abcf:eb48:0f9e",
+      "ua": "Opera/13.35 (Macintosh; Intel Mac OS X 10.6.0 U; AN Presto/2.9.170 Version/10.00)",
+      "created_at": "2025-12-03T13:36:56.792Z",
+      "meta": {
+        "device": "desktop",
+        "location": "Lee's Summit, Poland"
+      }
+    },
+    {
+      "id": "afe90db2-397d-492c-a108-e9d56be7462e",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "SESSION_CREATED",
+      "ip": "f69c:f2c2:ae6f:83f2:d958:deae:9735:fb09",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7.2; rv:13.0) Gecko/20100101 Firefox/13.0.2",
+      "created_at": "2025-12-10T07:15:46.798Z",
+      "meta": {}
+    },
+    {
+      "id": "0b7fe48b-5f41-4718-b9de-0119a613c278",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "fecf:cb9c:91fc:ebcd:7254:69e3:8efb:417b",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.6.7; rv:13.4) Gecko/20100101 Firefox/13.4.4",
+      "created_at": "2025-11-06T19:08:37.812Z",
+      "meta": {}
+    },
+    {
+      "id": "e00630d2-8eaf-46eb-bb8f-f1851ce32b4c",
+      "actor_id": "90464b76-0924-491a-a12d-52e514100110",
+      "action": "SESSION_REVOKED",
+      "ip": "ec75:83a6:36dd:d38a:7d8c:ae52:ccb3:ef5e",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_7)  AppleWebKit/536.2.2 (KHTML, like Gecko) Chrome/21.0.894.0 Safari/536.2.2",
+      "created_at": "2025-12-04T09:33:32.507Z",
+      "meta": {}
+    },
+    {
+      "id": "bfd46fe1-cf7e-49b0-ab35-1b6979f18dd2",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "PROFILE_UPDATED",
+      "ip": "02bd:8b16:e076:56ad:23bb:5dae:3ebc:1bc8",
+      "ua": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.0; Trident/5.1)",
+      "created_at": "2025-11-14T14:04:45.998Z",
+      "meta": {
+        "device": "desktop",
+        "location": "Eldoramouth, Kuwait"
+      }
+    },
+    {
+      "id": "548091ae-31e9-4af5-8a60-32a28382941f",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "PROFILE_UPDATED",
+      "ip": "9d78:ab8f:ccdd:bccf:a03d:e15e:b26e:af3f",
+      "ua": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.3; Trident/6.1; .NET CLR 4.3.83738.1)",
+      "created_at": "2025-10-26T01:45:53.397Z",
+      "meta": {}
+    },
+    {
+      "id": "dd192ed0-2533-4846-b47c-3d78a1d3b1c6",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "146.42.211.52",
+      "ua": "Opera/14.42 (Macintosh; Intel Mac OS X 10.6.9 U; TR Presto/2.9.187 Version/10.00)",
+      "created_at": "2025-10-27T22:58:47.129Z",
+      "meta": {}
+    },
+    {
+      "id": "b0c79e65-de41-446e-9422-508fd20eeeb2",
+      "actor_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "action": "USER_REGISTER",
+      "ip": "924c:efff:be4a:0d79:5d26:c272:b04b:8f5e",
+      "ua": "Mozilla/5.0 (X11; Linux i686 AppleWebKit/534.0.2 (KHTML, like Gecko) Chrome/14.0.851.0 Safari/534.0.2",
+      "created_at": "2025-11-27T05:22:56.394Z",
+      "meta": {
+        "device": "tablet",
+        "location": "Earnestinemouth, Brunei Darussalam"
+      }
+    },
+    {
+      "id": "4b0ff47a-d089-4cdb-9dff-1028d3fae036",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "8eeb:daad:2c5d:2773:fcd6:e126:26fb:e8d1",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.6.6; rv:10.8) Gecko/20100101 Firefox/10.8.3",
+      "created_at": "2025-11-28T12:21:13.790Z",
+      "meta": {}
+    },
+    {
+      "id": "d075e0c2-55ad-4305-b2ac-70bfddb768b8",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "USER_LOGIN_FAILED",
+      "ip": "2de2:c6ba:cf6b:74b6:04fa:7e6f:8ad3:0b19",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_3)  AppleWebKit/531.0.0 (KHTML, like Gecko) Chrome/27.0.802.0 Safari/531.0.0",
+      "created_at": "2025-11-14T00:10:19.205Z",
+      "meta": {
+        "device": "desktop",
+        "location": "Breitenbergworth, Trinidad and Tobago"
+      }
+    },
+    {
+      "id": "b9e58b87-7420-4d80-81f0-be38742027c8",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "USER_REGISTER",
+      "ip": "bec1:3e66:fff4:42af:5c8a:12fb:6ae2:c7ca",
+      "ua": "Opera/11.17 (Macintosh; Intel Mac OS X 10.8.7 U; BG Presto/2.9.188 Version/11.00)",
+      "created_at": "2025-12-15T10:23:25.399Z",
+      "meta": {}
+    },
+    {
+      "id": "751642ae-0dea-4f13-a902-cbcb81c9957b",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "VERIFICATION_SENT",
+      "ip": "0577:4cc8:8627:f6ab:f5c3:f9f2:6a9e:ad3e",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/537.0.2 (KHTML, like Gecko) Chrome/18.0.848.0 Safari/537.0.2",
+      "created_at": "2025-10-19T09:23:18.914Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Langoshfield, Mauritius"
+      }
+    },
+    {
+      "id": "f61501e9-59af-45d5-bcc9-db258666981f",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "e18a:af5a:cebd:659b:0569:674a:ab89:af6c",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_7 rv:3.0; VI) AppleWebKit/538.1.0 (KHTML, like Gecko) Version/5.0.7 Safari/538.1.0",
+      "created_at": "2025-11-03T05:28:38.748Z",
+      "meta": {}
+    },
+    {
+      "id": "a43dfe46-dac7-4579-9ccf-b3933451bf9f",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "fd86:9e3f:efc7:cbd5:cbbc:c7db:1d6a:09bc",
+      "ua": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/3.0)",
+      "created_at": "2025-11-19T10:09:50.406Z",
+      "meta": {}
+    },
+    {
+      "id": "6e54ea13-7f3d-4f77-9a77-1d5927fd4ca9",
+      "actor_id": null,
+      "action": "PROFILE_UPDATED",
+      "ip": "afb4:fb0b:ead8:c1a4:6c64:c39b:e63d:5b0e",
+      "ua": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.0; .NET CLR 3.4.26893.9)",
+      "created_at": "2025-12-03T16:33:23.233Z",
+      "meta": {
+        "device": "tablet",
+        "location": "South Alethaboro, Holy See (Vatican City State)"
+      }
+    },
+    {
+      "id": "8e071af1-aba3-4093-b39a-c5952b54a761",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "USER_LOGIN_FAILED",
+      "ip": "147.24.83.6",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_8_7 rv:2.0; LV) AppleWebKit/535.1.2 (KHTML, like Gecko) Version/7.1.6 Safari/535.1.2",
+      "created_at": "2025-12-05T19:19:31.742Z",
+      "meta": {}
+    },
+    {
+      "id": "08a9959a-b9ed-4509-becb-763231bec494",
+      "actor_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "action": "SESSION_CREATED",
+      "ip": "a81b:9ec7:9ad1:7dd9:1b7e:eeb6:8747:04d3",
+      "ua": "Mozilla/5.0 (Windows NT 6.2; Trident/7.0; Touch; rv:11.0) like Gecko",
+      "created_at": "2025-12-09T20:50:59.277Z",
+      "meta": {}
+    },
+    {
+      "id": "677e30bf-2b8a-46c8-b364-b570dc05f4e6",
+      "actor_id": null,
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "b4ef:be2d:9cd6:a66c:d7db:b34b:f58f:e7b7",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:8.2) Gecko/20100101 Firefox/8.2.9",
+      "created_at": "2025-11-19T05:16:56.838Z",
+      "meta": {}
+    },
+    {
+      "id": "af689e52-2097-491f-85f2-c87017757ad3",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "ae34:fcd8:a7e7:c1f1:ea7b:c4f7:74d2:b740",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64 AppleWebKit/534.2.1 (KHTML, like Gecko) Chrome/26.0.818.0 Safari/534.2.1",
+      "created_at": "2025-10-17T19:35:39.394Z",
+      "meta": {
+        "device": "tablet",
+        "location": "Torphyland, Iceland"
+      }
+    },
+    {
+      "id": "bc1a5de8-d7f6-462c-8b6b-217846fe8beb",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "b28e:192f:c0af:1351:7ea8:809e:6ecb:99ae",
+      "ua": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/7.1; .NET CLR 3.5.30568.7)",
+      "created_at": "2025-11-05T10:08:20.398Z",
+      "meta": {
+        "device": "desktop",
+        "location": "South Willardburgh, Latvia"
+      }
+    },
+    {
+      "id": "49fc5efc-ada7-49d1-bdd3-2c9e9b525fbb",
+      "actor_id": "90464b76-0924-491a-a12d-52e514100110",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "f24f:1aed:287e:4e7f:a6b2:ff9d:f362:b27a",
+      "ua": "Opera/9.55 (Macintosh; Intel Mac OS X 10.5.2 U; IS Presto/2.9.178 Version/11.00)",
+      "created_at": "2025-12-05T06:47:12.355Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Huntersville, Aruba"
+      }
+    },
+    {
+      "id": "d11ec1b1-34b9-47ad-a5d0-d1929557c5ea",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "236.15.85.113",
+      "ua": "Opera/10.53 (Windows NT 6.2; U; ZH Presto/2.9.172 Version/11.00)",
+      "created_at": "2025-11-22T08:17:11.027Z",
+      "meta": {}
+    },
+    {
+      "id": "86cd7fd9-6bb2-4801-a1bb-9c25a298f619",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "24.20.63.184",
+      "ua": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_9 rv:5.0; FR) AppleWebKit/534.1.1 (KHTML, like Gecko) Version/5.1.5 Safari/534.1.1",
+      "created_at": "2025-11-03T08:44:27.527Z",
+      "meta": {}
+    },
+    {
+      "id": "3a35a5d3-1cfd-4a80-a416-f43cc4ab7f8a",
+      "actor_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "action": "USER_REGISTER",
+      "ip": "57f5:94ab:61fc:781a:e6a0:99fb:5daf:83a5",
+      "ua": "Mozilla/5.0 (Windows NT 5.2; rv:12.2) Gecko/20100101 Firefox/12.2.2",
+      "created_at": "2025-11-11T16:08:03.106Z",
+      "meta": {}
+    },
+    {
+      "id": "66ed5c0c-2ade-42e1-80b1-9bd95ce9a42e",
+      "actor_id": null,
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "04c0:ea7e:ea6e:24d7:f5bb:90aa:39ca:ce2a",
+      "ua": "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko",
+      "created_at": "2025-12-08T10:06:26.739Z",
+      "meta": {}
+    },
+    {
+      "id": "4140993f-141a-4c72-8533-3d11109b6171",
+      "actor_id": null,
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "ba63:9923:edb7:bf23:e7ff:debb:b89b:5fc1",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6.6; rv:5.2) Gecko/20100101 Firefox/5.2.0",
+      "created_at": "2025-10-26T20:00:34.287Z",
+      "meta": {
+        "device": "tablet",
+        "location": "Glendale, Japan"
+      }
+    },
+    {
+      "id": "0b6a6978-f147-427c-8fbe-f8ca80298bff",
+      "actor_id": null,
+      "action": "PROFILE_UPDATED",
+      "ip": "babd:3cfd:ced8:045a:e5bb:da50:472b:dee8",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8 rv:6.0; DA) AppleWebKit/536.1.2 (KHTML, like Gecko) Version/7.1.6 Safari/536.1.2",
+      "created_at": "2025-12-04T20:55:31.768Z",
+      "meta": {}
+    },
+    {
+      "id": "ddecef09-fccb-4e00-8b5a-a6c13d27b2dd",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "USER_REGISTER",
+      "ip": "19.74.50.248",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64; rv:9.7) Gecko/20100101 Firefox/9.7.8",
+      "created_at": "2025-12-11T14:11:08.974Z",
+      "meta": {}
+    },
+    {
+      "id": "53325085-c114-483b-b138-fd995a69734e",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "SESSION_CREATED",
+      "ip": "9a53:9bc3:f370:252d:daab:925e:ff0b:fdda",
+      "ua": "Mozilla/5.0 (Windows NT 5.3; WOW64; rv:5.1) Gecko/20100101 Firefox/5.1.0",
+      "created_at": "2025-11-25T16:01:36.752Z",
+      "meta": {}
+    },
+    {
+      "id": "ad310234-5bb8-4543-afe3-854509f1289a",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "71.209.72.253",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_5 rv:2.0; HY) AppleWebKit/531.1.2 (KHTML, like Gecko) Version/4.1.4 Safari/531.1.2",
+      "created_at": "2025-11-20T03:15:11.189Z",
+      "meta": {}
+    },
+    {
+      "id": "56221aa8-c048-432f-9cd9-4f843a364ae4",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "USER_REGISTER",
+      "ip": "10.113.84.216",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:6.6) Gecko/20100101 Firefox/6.6.8",
+      "created_at": "2025-11-23T18:21:19.705Z",
+      "meta": {}
+    },
+    {
+      "id": "be4198e2-e639-49f1-9add-ac4c16c4246e",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "VERIFICATION_SENT",
+      "ip": "237.195.143.13",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/536.0.2 (KHTML, like Gecko) Chrome/32.0.844.0 Safari/536.0.2",
+      "created_at": "2025-12-10T23:38:32.465Z",
+      "meta": {}
+    },
+    {
+      "id": "c594179e-d226-43be-8f9b-34b7e5ae1487",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_FAILED",
+      "ip": "a8cf:5111:db6a:d141:a9fe:0041:3b08:7ace",
+      "ua": "Opera/11.80 (Windows NT 5.3; U; RM Presto/2.9.161 Version/11.00)",
+      "created_at": "2025-11-27T22:16:23.882Z",
+      "meta": {
+        "device": "desktop",
+        "location": "Lake Chancemouth, United States Minor Outlying Islands"
+      }
+    },
+    {
+      "id": "a7208e1e-9219-4e26-9a93-8f02a2fec501",
+      "actor_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "a8d1:bb4f:5e1d:d6c7:afa6:3ca7:5bae:d95c",
+      "ua": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/3.0; .NET CLR 4.2.18633.4)",
+      "created_at": "2025-11-29T16:01:23.952Z",
+      "meta": {}
+    },
+    {
+      "id": "5ad8f5a0-615e-4fb1-9acb-8d7ebbc484be",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "cb7e:ad5c:9fd6:6a38:4b06:eeb1:97ff:11e8",
+      "ua": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; rv:5.9) Gecko/20100101 Firefox/5.9.5",
+      "created_at": "2025-12-14T05:01:21.627Z",
+      "meta": {
+        "device": "tablet",
+        "location": "Satterfieldfurt, United Arab Emirates"
+      }
+    },
+    {
+      "id": "0186d2b7-12c1-49be-8198-1227fcd5dd8b",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "SESSION_REVOKED",
+      "ip": "9204:4efa:acc2:db1b:9ffe:1b4e:1fd3:5d6b",
+      "ua": "Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_7)  AppleWebKit/531.0.1 (KHTML, like Gecko) Chrome/28.0.876.0 Safari/531.0.1",
+      "created_at": "2025-11-19T14:40:36.593Z",
+      "meta": {}
+    },
+    {
+      "id": "9728e7ac-ad14-4399-b01d-a4337de71f4f",
+      "actor_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "action": "USER_LOGIN_FAILED",
+      "ip": "34.11.33.1",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3)  AppleWebKit/532.2.1 (KHTML, like Gecko) Chrome/34.0.887.0 Safari/532.2.1",
+      "created_at": "2025-10-19T04:46:25.063Z",
+      "meta": {}
+    },
+    {
+      "id": "ff8328fd-ec7c-4f95-9c85-bf4d565bf469",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "USER_REGISTER",
+      "ip": "d747:583d:61b9:cb06:cb71:de9f:d3e2:4b5d",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko",
+      "created_at": "2025-11-09T20:16:13.338Z",
+      "meta": {}
+    },
+    {
+      "id": "f847faae-3c36-4799-8108-f7168e518ea7",
+      "actor_id": null,
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "61cb:b304:6df8:ec17:6eda:ce0c:3bb5:dce9",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)  AppleWebKit/533.1.1 (KHTML, like Gecko) Chrome/39.0.837.0 Safari/533.1.1",
+      "created_at": "2025-11-13T18:36:25.162Z",
+      "meta": {}
+    },
+    {
+      "id": "50fb5d68-aa53-403c-b27b-6ac4a56ae6e7",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "PROFILE_UPDATED",
+      "ip": "ebbc:3011:926e:c7b6:259a:6213:b9aa:8662",
+      "ua": "Opera/14.75 (Windows NT 5.2; U; TY Presto/2.9.188 Version/10.00)",
+      "created_at": "2025-11-05T10:01:10.848Z",
+      "meta": {}
+    },
+    {
+      "id": "b6bebe04-9aa2-4323-9c1f-2a9494ed3caa",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "USER_LOGIN_FAILED",
+      "ip": "37.15.252.184",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8)  AppleWebKit/535.2.0 (KHTML, like Gecko) Chrome/18.0.894.0 Safari/535.2.0",
+      "created_at": "2025-12-13T13:27:52.300Z",
+      "meta": {}
+    },
+    {
+      "id": "225d9e6c-2f94-43a6-acd8-532c2cd760bd",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "227.151.152.172",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5.2; rv:13.0) Gecko/20100101 Firefox/13.0.9",
+      "created_at": "2025-10-31T21:36:54.228Z",
+      "meta": {
+        "device": "mobile",
+        "location": "New Katelynn, Democratic Republic of the Congo"
+      }
+    },
+    {
+      "id": "799c0fa2-95bf-4dea-9dc2-9f54400ce0b7",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "cbbe:16e0:2d46:ab66:d3ad:84be:fe5e:d2dd",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/537.2.1 (KHTML, like Gecko) Chrome/15.0.814.0 Safari/537.2.1",
+      "created_at": "2025-11-08T19:43:20.629Z",
+      "meta": {
+        "device": "tablet",
+        "location": "New Coby, Belize"
+      }
+    },
+    {
+      "id": "e3d17b27-5c78-471c-b156-3c30b603d503",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "ced5:9bbd:ef4d:eccb:4f82:6d35:6cbb:0b90",
+      "ua": "Mozilla/5.0 (Windows NT 5.2; rv:9.4) Gecko/20100101 Firefox/9.4.7",
+      "created_at": "2025-11-03T13:55:51.146Z",
+      "meta": {}
+    },
+    {
+      "id": "43e55c19-7e4c-4727-a0d2-1e0e8b5125d1",
+      "actor_id": null,
+      "action": "PROFILE_UPDATED",
+      "ip": "de69:1f4e:85eb:5ebb:ac67:4eb2:06eb:e93b",
+      "ua": "Opera/9.92 (Windows NT 6.3; U; FJ Presto/2.9.185 Version/10.00)",
+      "created_at": "2025-11-16T15:19:47.798Z",
+      "meta": {
+        "device": "tablet",
+        "location": "Lowechester, Puerto Rico"
+      }
+    },
+    {
+      "id": "6241e339-41bc-4280-9475-3675d9a05877",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "7d50:24fd:4216:ee82:b17f:f04b:9fe8:d7e0",
+      "ua": "Mozilla/5.0 (X11; Linux x86_64; rv:15.6) Gecko/20100101 Firefox/15.6.3",
+      "created_at": "2025-10-21T13:16:21.130Z",
+      "meta": {}
+    },
+    {
+      "id": "49dd4c08-5d4b-4d6d-b67e-2e68e8adcf7b",
+      "actor_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "98.44.93.189",
+      "ua": "Mozilla/5.0 (Windows NT 6.2; Trident/7.0; rv:11.0) like Gecko",
+      "created_at": "2025-10-18T16:29:05.461Z",
+      "meta": {}
+    },
+    {
+      "id": "b6873f35-9e92-4c94-b112-d84b4bbdeb56",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "77.187.122.189",
+      "ua": "Opera/12.16 (Macintosh; Intel Mac OS X 10.9.3 U; SV Presto/2.9.181 Version/11.00)",
+      "created_at": "2025-10-26T02:28:25.989Z",
+      "meta": {}
+    },
+    {
+      "id": "ca6f479d-d8b5-44cb-b347-d7866f718698",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "USER_REGISTER",
+      "ip": "107.117.153.68",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.3)AppleWebKit/532.1.2 (KHTML, like Gecko) Version/4.0.10 Safari/532.1.2",
+      "created_at": "2025-11-09T08:44:21.537Z",
+      "meta": {}
+    },
+    {
+      "id": "c18f0758-c12a-4861-85b0-67c1fbdecb64",
+      "actor_id": null,
+      "action": "USER_REGISTER",
+      "ip": "27e7:ddee:dace:4a5e:45cd:bdfc:baee:6dbf",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_5 rv:5.0; HR) AppleWebKit/535.0.2 (KHTML, like Gecko) Version/6.0.6 Safari/535.0.2",
+      "created_at": "2025-10-27T05:43:44.641Z",
+      "meta": {}
+    },
+    {
+      "id": "be2110a7-87f3-45e7-90c2-6f13843052f0",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "212.97.95.218",
+      "ua": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; Trident/4.0; .NET CLR 2.4.77391.0)",
+      "created_at": "2025-12-03T09:23:05.734Z",
+      "meta": {
+        "device": "desktop",
+        "location": "Chicago, Guinea-Bissau"
+      }
+    },
+    {
+      "id": "0a75ffa3-afc4-4279-bd4f-dbba91db7b60",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "SESSION_REVOKED",
+      "ip": "6a6c:df0c:cd1e:5307:db1f:398d:b838:ad4f",
+      "ua": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_0)  AppleWebKit/536.0.0 (KHTML, like Gecko) Chrome/16.0.808.0 Safari/536.0.0",
+      "created_at": "2025-10-19T00:55:27.032Z",
+      "meta": {}
+    },
+    {
+      "id": "bdc5a45d-23cd-4370-8a92-d0081e4dcce1",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "USER_REGISTER",
+      "ip": "a18b:fbfd:7a5b:7dce:5d6b:c0b2:cecb:0f9b",
+      "ua": "Mozilla/5.0 (X11; Linux i686; rv:6.8) Gecko/20100101 Firefox/6.8.0",
+      "created_at": "2025-12-08T14:39:58.915Z",
+      "meta": {}
+    },
+    {
+      "id": "48b57216-c8e9-4452-b329-fbc778385d11",
+      "actor_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "89.251.212.170",
+      "ua": "Mozilla/5.0 (Windows NT 6.2; Trident/7.0; Touch; rv:11.0) like Gecko",
+      "created_at": "2025-11-19T07:41:03.824Z",
+      "meta": {
+        "device": "tablet",
+        "location": "New Sigridchester, Montenegro"
+      }
+    },
+    {
+      "id": "19fe6794-5e57-467a-b55d-04a2ae405ce9",
+      "actor_id": null,
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "82.150.124.163",
+      "ua": "Opera/12.51 (Windows NT 6.2; U; MY Presto/2.9.177 Version/11.00)",
+      "created_at": "2025-11-21T08:03:58.996Z",
+      "meta": {
+        "device": "tablet",
+        "location": "New Jazlynland, Bahrain"
+      }
+    },
+    {
+      "id": "947f8efe-3aba-45bb-a0a4-0b412767ac65",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "SESSION_REVOKED",
+      "ip": "152.115.221.121",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 6.0) AppleWebKit/537.2.0 (KHTML, like Gecko) Chrome/14.0.866.0 Safari/537.2.0",
+      "created_at": "2025-10-16T18:21:55.275Z",
+      "meta": {}
+    },
+    {
+      "id": "f35e4241-4799-48c4-b678-d9f4033ede89",
+      "actor_id": null,
+      "action": "PASSWORD_RESET_SUCCESS",
+      "ip": "8fcb:2a7a:e44f:d6ef:acca:6ede:bc08:aa3e",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.6) Gecko/20100101 Firefox/15.6.5",
+      "created_at": "2025-11-23T07:11:37.979Z",
+      "meta": {}
+    },
+    {
+      "id": "f193cb48-440d-4cfb-8142-454fa76501f8",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "VERIFICATION_SENT",
+      "ip": "d7b8:3b5f:be1f:65fe:de26:cbdc:fdaf:c7ec",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 5.1)AppleWebKit/535.1.2 (KHTML, like Gecko) Version/4.0.7 Safari/535.1.2",
+      "created_at": "2025-11-04T00:28:10.807Z",
+      "meta": {}
+    },
+    {
+      "id": "55aad41a-9e1a-46f3-9dc0-5c90d99b7b1c",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "35.40.197.59",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/535.1.0 (KHTML, like Gecko) Chrome/30.0.828.0 Safari/535.1.0",
+      "created_at": "2025-11-21T23:07:51.701Z",
+      "meta": {}
+    },
+    {
+      "id": "71f52b69-ecaf-4f61-8043-2fafe4e8a37f",
+      "actor_id": "57c52b73-5582-4987-9c53-fa1ff2fa8e53",
+      "action": "VERIFICATION_CONFIRMED",
+      "ip": "143.29.30.234",
+      "ua": "Opera/10.2 (Windows NT 6.1; U; SQ Presto/2.9.175 Version/11.00)",
+      "created_at": "2025-11-26T10:06:40.230Z",
+      "meta": {
+        "device": "mobile",
+        "location": "Thompsonstad, North Macedonia"
+      }
+    },
+    {
+      "id": "4a8f58be-4a18-42dc-8edc-abb9376b830f",
+      "actor_id": null,
+      "action": "PROFILE_UPDATED",
+      "ip": "114.234.61.97",
+      "ua": "Mozilla/5.0 (Windows NT 5.1; WOW64; rv:6.7) Gecko/20100101 Firefox/6.7.6",
+      "created_at": "2025-12-14T02:41:00.037Z",
+      "meta": {}
+    },
+    {
+      "id": "fa7b4b05-8300-43e2-bcb4-ac6b08d8dc1c",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "PROFILE_UPDATED",
+      "ip": "223b:a73a:553e:9cdc:8a73:dadf:acd6:a2d4",
+      "ua": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.3; Trident/7.1; .NET CLR 4.7.66812.6)",
+      "created_at": "2025-12-09T04:36:45.154Z",
+      "meta": {}
+    },
+    {
+      "id": "25151ea1-0ae5-44ee-b9ff-5f10538d3df7",
+      "actor_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "action": "PASSWORD_RESET_REQUEST",
+      "ip": "8da3:2768:cdec:de2d:1eeb:0ef0:8cf8:fdc7",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.7.3; rv:12.3) Gecko/20100101 Firefox/12.3.4",
+      "created_at": "2025-12-14T06:57:37.761Z",
+      "meta": {}
+    },
+    {
+      "id": "9ace6b60-cc72-4916-bafd-2f2900705678",
+      "actor_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "action": "SESSION_REVOKED",
+      "ip": "c93d:7556:40fd:91f0:e6ce:ff6c:696c:0fce",
+      "ua": "Opera/11.64 (Macintosh; Intel Mac OS X 10.5.5 U; IT Presto/2.9.187 Version/11.00)",
+      "created_at": "2025-11-13T20:20:25.214Z",
+      "meta": {}
+    },
+    {
+      "id": "e1d60c5b-e9ad-43b9-8c85-d3abb45862d1",
+      "actor_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "action": "VERIFICATION_SENT",
+      "ip": "25.188.173.148",
+      "ua": "Mozilla/5.0 (X11; Linux i686 AppleWebKit/532.0.1 (KHTML, like Gecko) Chrome/20.0.850.0 Safari/532.0.1",
+      "created_at": "2025-11-14T10:29:45.093Z",
+      "meta": {}
+    },
+    {
+      "id": "cb36ad57-f556-4691-b9b9-2c7592dfa370",
+      "actor_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "action": "VERIFICATION_SENT",
+      "ip": "aabf:ddee:fdae:3ccc:bd1e:4b16:f375:74c7",
+      "ua": "Mozilla/5.0 (Windows; U; Windows NT 6.0)AppleWebKit/536.1.2 (KHTML, like Gecko) Version/6.1.2 Safari/536.1.2",
+      "created_at": "2025-12-03T07:47:48.734Z",
+      "meta": {}
+    },
+    {
+      "id": "0b86148f-2457-41f8-82de-64828d8438de",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "59.81.75.141",
+      "ua": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_2)  AppleWebKit/531.0.1 (KHTML, like Gecko) Chrome/38.0.862.0 Safari/531.0.1",
+      "created_at": "2025-12-05T12:56:41.669Z",
+      "meta": {}
+    },
+    {
+      "id": "e9f24a1a-ed20-49c2-a8c0-071994315e89",
+      "actor_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "105.179.146.214",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10.0; rv:12.5) Gecko/20100101 Firefox/12.5.2",
+      "created_at": "2025-11-06T12:29:23.528Z",
+      "meta": {}
+    },
+    {
+      "id": "e03b4938-c665-4a6c-ad65-f50e915675a7",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T12:16:58.894Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "e8b5444e-7b3b-4b07-892b-20072eebcd4c",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T12:27:16.174Z",
+      "meta": {
+        "email": "it_bur_2025_9@bsu.ru",
+        "role": "user"
+      }
+    },
+    {
+      "id": "ed9fb57e-53aa-442c-8146-794db3e07f6b",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T12:48:34.619Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "710b10b3-34f0-4714-a0fe-6dcf23ce0b27",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:05:16.149Z",
+      "meta": {
+        "email": "slava.erof07@gmail.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "bc17054a-ea83-4a5e-9f4c-353cdddfe056",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:07:24.019Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "cf47831a-9b5b-4f37-8ca0-b889c783541f",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:07:32.160Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "04ea703d-d8e0-4380-b78c-6cb6f4bff55c",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:07:39.436Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "d6047c57-fc68-4fb3-b831-5cd7ea35706c",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:10:55.939Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "935ff41f-82fe-478d-b050-f46bcaf92acc",
+      "actor_id": "fe68bdc7-9ff0-461b-a00a-2812b3c9f563",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:15:59.517Z",
+      "meta": {
+        "email": "it_bur_2025_8@bsu.ru",
+        "role": "user"
+      }
+    },
+    {
+      "id": "65d8aa8f-ba4c-477c-9e47-64c39da1912c",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:16:50.754Z",
+      "meta": {
+        "login": "it_bur_2025_8@bsu.ru"
+      }
+    },
+    {
+      "id": "c42a2aab-092c-491c-8fd5-e0519eb4c3bf",
+      "actor_id": "21b8689e-e691-4641-8270-1ce5ae7aef5b",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:18:32.462Z",
+      "meta": {
+        "email": "user@gma.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "20a81f3b-4d9c-4ba5-9a36-3d0751e91a48",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:36:53.308Z",
+      "meta": {
+        "login": "user@gma.com"
+      }
+    },
+    {
+      "id": "4b807024-5ec7-4f63-b4e9-e03516ed83b1",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:37:36.416Z",
+      "meta": {
+        "login": "user@gma.com"
+      }
+    },
+    {
+      "id": "a7ea13d3-5b7a-4f9f-b7f1-b1128ab20bc3",
+      "actor_id": "31d4eb95-046b-41e4-b4b9-b1903f4e2d87",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:39:42.098Z",
+      "meta": {
+        "email": "bara@bk.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "c12203ba-f3f7-48f9-859a-a0706dfb9d42",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T13:39:47.537Z",
+      "meta": {
+        "login": "bara@bk.com"
+      }
+    },
+    {
+      "id": "f3ff3fe0-7202-4165-9645-96404022b81b",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:38:19.879Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "f0360a4f-6720-445f-bb35-1c7623b51960",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:38:29.945Z",
+      "meta": {
+        "login": "bara@bk.com"
+      }
+    },
+    {
+      "id": "3563e5ec-69d6-4fc0-8139-59327d01579a",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:42:08.954Z",
+      "meta": {}
+    },
+    {
+      "id": "4f82a998-4f6c-490b-a50b-93e83c96fff8",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:43:44.661Z",
+      "meta": {}
+    },
+    {
+      "id": "20af6981-85b5-41d5-85aa-44651dfe9e75",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:44:25.866Z",
+      "meta": {}
+    },
+    {
+      "id": "99751632-cf97-428b-be4a-17c8a54bc6b7",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:45:36.718Z",
+      "meta": {}
+    },
+    {
+      "id": "5991b12c-707b-42f2-9527-308034d9405d",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:45:42.864Z",
+      "meta": {}
+    },
+    {
+      "id": "78a2e8bb-380f-4337-a2c3-df2ca5d68233",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T14:45:48.325Z",
+      "meta": {}
+    },
+    {
+      "id": "62642f37-0635-4b7c-9b81-1bd22db5c9a6",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T15:40:29.422Z",
+      "meta": {}
+    },
+    {
+      "id": "edaecf9f-1c5f-48ce-95fd-51725ac42885",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T15:40:43.067Z",
+      "meta": {}
+    },
+    {
+      "id": "f8b630d3-18c2-4ce6-8903-728539e9dc25",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T15:41:13.700Z",
+      "meta": {}
+    },
+    {
+      "id": "960ed3cd-3160-452b-ae8f-5d4047819b23",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-15T15:44:04.916Z",
+      "meta": {}
+    },
+    {
+      "id": "5729e3e0-c3aa-4b2a-aafd-3602bff33f4c",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:21.827Z",
+      "meta": {}
+    },
+    {
+      "id": "b06875eb-2a7e-4e96-ad5d-ab7c0304bbd9",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:33.434Z",
+      "meta": {}
+    },
+    {
+      "id": "0d0ba48a-9387-48bf-a012-7ee60c2cfb81",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:37.831Z",
+      "meta": {}
+    },
+    {
+      "id": "5657cdce-b406-47bb-967d-ccc66ba1e001",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:46.908Z",
+      "meta": {}
+    },
+    {
+      "id": "a571ea81-443d-4485-b52e-8963c69e10e5",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:50.960Z",
+      "meta": {}
+    },
+    {
+      "id": "bcfa6909-ee01-48fb-b465-a0e7d2506e54",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:45:56.160Z",
+      "meta": {}
+    },
+    {
+      "id": "1f6efaf6-d9ba-46f4-a041-bb2f2a5b4ccb",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:46:07.491Z",
+      "meta": {}
+    },
+    {
+      "id": "5c088e45-91c2-450d-9c14-0fbb13bbe260",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:46:20.965Z",
+      "meta": {}
+    },
+    {
+      "id": "35e93641-5e0a-4d01-bd88-017c48293e30",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:46:57.737Z",
+      "meta": {}
+    },
+    {
+      "id": "60a44847-2455-485f-9ad1-041d952aa911",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:47:23.774Z",
+      "meta": {}
+    },
+    {
+      "id": "091dce4a-54a0-4716-b9f4-daaf8d466ea9",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:47:53.951Z",
+      "meta": {}
+    },
+    {
+      "id": "ac45260f-0070-4747-9ae7-c25ddb08e39c",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:54:02.991Z",
+      "meta": {}
+    },
+    {
+      "id": "6594b291-5127-46e8-9549-b613de0873df",
+      "actor_id": "9d789655-4d03-466e-9e8b-b507305262b7",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:55:11.302Z",
+      "meta": {
+        "email": "slava.erof07@gmssail.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "53559f3e-595b-47f0-9405-1ab4c1dbd554",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:55:38.755Z",
+      "meta": {}
+    },
+    {
+      "id": "1bc3e570-a749-435c-bc0a-09e7d3af3592",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:57:54.477Z",
+      "meta": {}
+    },
+    {
+      "id": "146af7dd-37b9-489d-b679-d9f2770e0154",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:58:16.070Z",
+      "meta": {}
+    },
+    {
+      "id": "0b53bc72-cb87-4b8d-9344-614f19c2d151",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:58:31.365Z",
+      "meta": {}
+    },
+    {
+      "id": "a4cfdca3-e939-49d7-acde-7e8ad7f8d595",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:58:38.847Z",
+      "meta": {}
+    },
+    {
+      "id": "3a51b549-45c6-4177-83f2-142e22d5fa4a",
+      "actor_id": "3b6fedd4-b1fa-40eb-bff4-5ad753f8ad93",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:59:02.006Z",
+      "meta": {
+        "email": "admin@examsple.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "ff28b664-5f05-4332-93d5-dc9fcff49332",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:59:18.934Z",
+      "meta": {}
+    },
+    {
+      "id": "4704bf31-ebea-43fd-bc65-39ebaac2db04",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T02:59:25.990Z",
+      "meta": {}
+    },
+    {
+      "id": "8a9977e7-2291-4713-96d4-079238060691",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:15:59.043Z",
+      "meta": {}
+    },
+    {
+      "id": "c427fe73-f4d1-4199-8840-4a5942791591",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:16:26.164Z",
+      "meta": {}
+    },
+    {
+      "id": "6d52a116-8239-4d2c-a272-ce391490b8b9",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:18:27.998Z",
+      "meta": {}
+    },
+    {
+      "id": "5316f354-0867-4c3d-9856-805c69051a96",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:18:56.176Z",
+      "meta": {}
+    },
+    {
+      "id": "97d60046-feda-40d1-9037-0a866b877954",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:20:38.235Z",
+      "meta": {}
+    },
+    {
+      "id": "b13639a0-a44a-4c36-b4ac-f73cad889a91",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:24:33.486Z",
+      "meta": {}
+    },
+    {
+      "id": "d8482272-666b-47df-ae4c-fe5620486d03",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T04:26:58.655Z",
+      "meta": {}
+    },
+    {
+      "id": "47c413c2-ced6-45b6-a559-5e5d7e37e945",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:22:03.885Z",
+      "meta": {}
+    },
+    {
+      "id": "73b12cd3-c8ae-4612-94d3-9cea41ffe4ef",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:22:10.951Z",
+      "meta": {}
+    },
+    {
+      "id": "fc940a37-1d42-4120-927e-50e1d0654816",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:50:11.052Z",
+      "meta": {}
+    },
+    {
+      "id": "0f8f8d9d-fd4f-4b22-92ce-c21146ff6159",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T06:59:51.469Z",
+      "meta": {}
+    },
+    {
+      "id": "063aef80-0a4b-402b-93c4-c84889e6edd9",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:07:51.814Z",
+      "meta": {}
+    },
+    {
+      "id": "3b8d940b-350b-473d-a5a9-5ddf465a8e03",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:13:07.702Z",
+      "meta": {}
+    },
+    {
+      "id": "71e986ae-c0d3-48a7-9853-33458093d26e",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:19:00.501Z",
+      "meta": {}
+    },
+    {
+      "id": "fd64f6f6-4140-434a-918c-d61bb88cbeec",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:58:07.272Z",
+      "meta": {}
+    },
+    {
+      "id": "0630a107-c238-4c7f-b50e-8a079f48d74f",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T07:58:56.271Z",
+      "meta": {}
+    },
+    {
+      "id": "062136b9-c34d-40c9-a749-1e5d4f5b4efe",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:10:13.868Z",
+      "meta": {}
+    },
+    {
+      "id": "a22b3446-acc3-417b-88d5-c9a266039b15",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:26:26.138Z",
+      "meta": {}
+    },
+    {
+      "id": "01731ce0-4454-45c1-85da-9be0444e565b",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:38:38.449Z",
+      "meta": {}
+    },
+    {
+      "id": "4a5b874d-ae02-4eb0-baf0-5736a10c56a9",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:38:48.389Z",
+      "meta": {}
+    },
+    {
+      "id": "ed4fea41-b5f1-4717-83d8-28def2c2b3e8",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:41:49.112Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "32145e75-6170-49d2-9813-48014f860eff",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:41:58.032Z",
+      "meta": {}
+    },
+    {
+      "id": "316fea13-5d79-4296-8315-9d5a38e236d3",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:45:25.579Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "4bbd21be-18e5-441f-a7ff-ac88e17ea515",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:45:32.826Z",
+      "meta": {}
+    },
+    {
+      "id": "2f49c0bb-7616-4a5b-a893-9346fe97247c",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:05.020Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "485da134-f9dd-49ec-8dca-5cf0cdd224e5",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:12.020Z",
+      "meta": {}
+    },
+    {
+      "id": "793641b8-2aa0-46f5-a79a-6d0da1556101",
+      "actor_id": "fe68bdc7-9ff0-461b-a00a-2812b3c9f563",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:19.373Z",
+      "meta": {}
+    },
+    {
+      "id": "16fd784a-7fd5-4a42-8958-feb008f55039",
+      "actor_id": "b0e0c11b-0199-41d0-8a17-25bbdc927a75",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T10:48:48.727Z",
+      "meta": {
+        "email": "it_bur_2025_99@bsu.ru",
+        "role": "user"
+      }
+    },
+    {
+      "id": "3a80097a-0bb1-4521-b084-1a34619ea2ba",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T12:00:58.271Z",
+      "meta": {}
+    },
+    {
+      "id": "f35da2ed-5997-43cf-a491-87158b929ce5",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T12:59:34.894Z",
+      "meta": {}
+    },
+    {
+      "id": "729ae53e-b948-4088-a19f-14538685a5ef",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T13:53:57.922Z",
+      "meta": {}
+    },
+    {
+      "id": "9c895ada-988b-42aa-85d3-6ecdc153f2d3",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T13:54:09.990Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "44027d6d-7323-400c-a917-048eaec01e6d",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T13:55:32.490Z",
+      "meta": {
+        "login": "slava.erof07@gmail.com"
+      }
+    },
+    {
+      "id": "499e43d3-4ac8-4492-a88a-5c04808bd543",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T13:55:41.732Z",
+      "meta": {}
+    },
+    {
+      "id": "3290ff7c-33a1-470f-ad27-57ebd03745c6",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:03:49.206Z",
+      "meta": {}
+    },
+    {
+      "id": "30d8f4b8-df12-42ae-9671-9c8f0997de4a",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:10:45.291Z",
+      "meta": {}
+    },
+    {
+      "id": "1229e540-71bd-4b42-8d44-a144fcfd6938",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:21:51.042Z",
+      "meta": {}
+    },
+    {
+      "id": "6bb2c3c9-23eb-427a-a8a8-d1a4ebe6a42f",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:25:50.121Z",
+      "meta": {}
+    },
+    {
+      "id": "0907cd49-2220-4c2e-b409-e4ea853612cb",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-16T14:32:02.424Z",
+      "meta": {}
+    },
+    {
+      "id": "6cc5591d-6673-4761-83f5-0d513a3537b4",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T07:17:54.384Z",
+      "meta": {}
+    },
+    {
+      "id": "d245c1eb-5554-4982-8b86-76479f0b1a22",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T07:33:31.351Z",
+      "meta": {}
+    },
+    {
+      "id": "2f903478-292f-4acc-89c9-33706b463507",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T07:46:17.129Z",
+      "meta": {}
+    },
+    {
+      "id": "aa80ce0b-297d-40c7-9c04-3df9eadb0f08",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:01:31.418Z",
+      "meta": {}
+    },
+    {
+      "id": "9f530b12-97df-4b17-83f6-a38dc740775e",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:14:17.303Z",
+      "meta": {}
+    },
+    {
+      "id": "9c94ac53-0e10-49fb-9ab4-b3f38c42b332",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:33:50.458Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "4cc6ed6e-40b2-4129-916a-aff4ee4040aa",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:34:21.876Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "63d5cdac-d9a7-4644-a77a-c4eab81efa0e",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:35:29.828Z",
+      "meta": {}
+    },
+    {
+      "id": "303948cc-39cd-42bd-a68d-d54de587391e",
+      "actor_id": "b3499983-5be5-4fe9-ba10-dab50527b440",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:43:58.156Z",
+      "meta": {
+        "email": "it_bur_2022225_9@bsu.ru",
+        "role": "user"
+      }
+    },
+    {
+      "id": "eeb59f0c-e176-496d-8746-d60742c076e7",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:45:05.918Z",
+      "meta": {}
+    },
+    {
+      "id": "806f5178-6a77-432d-aa6f-53046015ab45",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:47:07.115Z",
+      "meta": {}
+    },
+    {
+      "id": "26618457-70b9-4bfd-a561-e63fcf09a218",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:50:27.912Z",
+      "meta": {}
+    },
+    {
+      "id": "4025ea42-5c78-4661-95c9-f39139b4850d",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:51:08.332Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "69629759-d2f8-400d-9670-b98ae0e68017",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:51:11.828Z",
+      "meta": {}
+    },
+    {
+      "id": "9861c27e-9f98-4f74-b33d-9ad6b0aca3bd",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:51:57.298Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "dd9efb44-5bff-4fc1-8486-168790d56f1f",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:52:36.358Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "76e3fa00-8a72-464e-9d71-3c97db0c9928",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:52:39.303Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "3838c7f8-1037-4df1-b67f-48bae6c74ef1",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:52:40.116Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "840d7f69-12a1-45ff-a0ad-7e64428aa3fc",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:52:40.647Z",
+      "meta": {
+        "login": "it_bur_2025_9@bsu.ru"
+      }
+    },
+    {
+      "id": "d3a241c8-80de-499f-aedc-180ca7fe3501",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:52:43.310Z",
+      "meta": {}
+    },
+    {
+      "id": "a7e41b2a-c9db-44c0-a7e6-699cf40cc076",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:53:54.652Z",
+      "meta": {}
+    },
+    {
+      "id": "0ec5d93b-129b-45dc-83b2-a26cae978d94",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T08:59:09.345Z",
+      "meta": {}
+    },
+    {
+      "id": "385c4f8d-a7ea-4821-bcd4-ec2e5719a1ad",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:04:57.175Z",
+      "meta": {}
+    },
+    {
+      "id": "2ac860c4-7dac-434f-97db-25beff6a0d67",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:06:09.842Z",
+      "meta": {}
+    },
+    {
+      "id": "5a265259-01e1-4a28-b041-b8337488b6ae",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:15:07.328Z",
+      "meta": {}
+    },
+    {
+      "id": "73e269fc-bfdf-42c0-a9a9-7b7ae6c4f481",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:32:57.248Z",
+      "meta": {
+        "login": "admin@exывывывample.com"
+      }
+    },
+    {
+      "id": "44ca1500-ef63-41da-b240-27f028ca22c3",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:33:05.608Z",
+      "meta": {
+        "login": "admin@example.comывыввы"
+      }
+    },
+    {
+      "id": "23f4e131-2159-4d10-a6fc-5b29bb3ad5fe",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:33:26.611Z",
+      "meta": {}
+    },
+    {
+      "id": "9e132815-790b-4585-9113-bb63830d98be",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:34:23.814Z",
+      "meta": {}
+    },
+    {
+      "id": "f8f943e4-0862-478d-bf65-ade3b8855113",
+      "actor_id": "ad145a1a-9c5a-4a61-a65d-1883f64aa474",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:36:37.875Z",
+      "meta": {
+        "email": "Egooro@gmail.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "49601cd3-99f2-4ce8-95f5-10a31309ef2e",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T09:54:00.088Z",
+      "meta": {}
+    },
+    {
+      "id": "c001d262-a502-4b61-afb6-ea9b5ba26605",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T10:29:29.357Z",
+      "meta": {}
+    },
+    {
+      "id": "e7ef1440-01be-43d7-9722-6ed40b9077e8",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-17T12:59:32.069Z",
+      "meta": {}
+    },
+    {
+      "id": "df39d7be-b422-47f8-bae6-ac0bf17ef0b5",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:33:02.132Z",
+      "meta": {}
+    },
+    {
+      "id": "7bf52634-de80-483e-95da-287ff53e7df0",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:33:14.661Z",
+      "meta": {}
+    },
+    {
+      "id": "e96d3cf7-fb8b-4b70-a510-f5a019b2ffa1",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:33:52.221Z",
+      "meta": {}
+    },
+    {
+      "id": "bdea16dd-563b-4f5d-acf0-02e0479b7168",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:51:06.859Z",
+      "meta": {}
+    },
+    {
+      "id": "f1f6003f-b2c2-405d-95bd-d3feacf511f7",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:53:30.761Z",
+      "meta": {}
+    },
+    {
+      "id": "d4b43d9f-36b6-4ce6-8afd-bd5b5cf395f5",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T06:54:47.185Z",
+      "meta": {}
+    },
+    {
+      "id": "c4d5f0e5-7420-458a-ab44-76dacdc288ee",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:01:36.590Z",
+      "meta": {}
+    },
+    {
+      "id": "07846c5e-c245-4744-aa4e-eb046009b5ab",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:06:36.680Z",
+      "meta": {}
+    },
+    {
+      "id": "0f5d0edf-7b65-474a-930c-d96a30225fff",
+      "actor_id": "ea141481-b34b-467b-9c3f-0b8b72fe8e00",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:08:09.681Z",
+      "meta": {}
+    },
+    {
+      "id": "a7e7bfd0-9af4-4956-8922-89685ebbbcf7",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:08:15.375Z",
+      "meta": {}
+    },
+    {
+      "id": "021ef73d-4913-4319-8777-84e8f54e8e7c",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:24:21.056Z",
+      "meta": {}
+    },
+    {
+      "id": "73e5cb44-0be8-4efd-8d17-b76f2929ab2b",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:39:51.386Z",
+      "meta": {}
+    },
+    {
+      "id": "39e09182-44aa-4e41-92bd-d9ae13db6dbf",
+      "actor_id": "d29fd6e6-84d1-4321-afe7-75a772183743",
+      "action": "USER_REGISTER",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:50:42.062Z",
+      "meta": {
+        "email": "CrashSystem@gmail.com",
+        "role": "user"
+      }
+    },
+    {
+      "id": "27a1bfe9-78d4-4232-b555-445e14a6489d",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T07:50:50.776Z",
+      "meta": {}
+    },
+    {
+      "id": "38426836-fab3-4d7c-9b2d-910d41ccfc28",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:11:09.337Z",
+      "meta": {}
+    },
+    {
+      "id": "2919290d-8395-4b25-8006-9cca50a62fd1",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:12:20.845Z",
+      "meta": {}
+    },
+    {
+      "id": "e0bf93bf-002c-4a9f-bd12-bcc4629021e7",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:16:51.536Z",
+      "meta": {
+        "login": "\"><script>alert('XSS-email')</script>@test.com admin@example.com<script>alert(1)</script> \"onmouseover=\"alert('XSS') javascript:alert(document.domain) test@example.com'><img src=x onerror=alert(1)>"
+      }
+    },
+    {
+      "id": "c26e3c5e-d695-4887-a006-c8a8edab1bc4",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:17:04.019Z",
+      "meta": {
+        "login": "admin@example.com"
+      }
+    },
+    {
+      "id": "2517e2ca-f54d-445d-b9c6-64d3ee94dcac",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:17:04.745Z",
+      "meta": {
+        "login": "admin@example.com"
+      }
+    },
+    {
+      "id": "ea4594f9-dc3b-42ad-b5a2-0da1d1609115",
+      "actor_id": null,
+      "action": "USER_LOGIN_FAILED",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:17:14.325Z",
+      "meta": {
+        "login": "\"><script>alert('XSS Test')</script>@example.com"
+      }
+    },
+    {
+      "id": "ee54bda5-b54b-465d-9ff7-90b236a6be4c",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:25:05.191Z",
+      "meta": {}
+    },
+    {
+      "id": "432ce3de-1d4e-4466-b888-2b844e0a7bd7",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:25:20.393Z",
+      "meta": {}
+    },
+    {
+      "id": "d9ac25ee-de57-422a-acba-c82de62a7f9b",
+      "actor_id": "c1c8c671-5988-4b70-b3e5-42e5e7d8ec99",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:25:45.204Z",
+      "meta": {}
+    },
+    {
+      "id": "048a044e-59c1-4a00-ba9d-05d6c56e2a3e",
+      "actor_id": "44a43821-6692-4797-b76c-a5f9fa08fd6b",
+      "action": "USER_LOGIN_SUCCESS",
+      "ip": "::1",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "created_at": "2025-12-18T08:26:00.874Z",
+      "meta": {}
+    }
+  ],
+  "password_reset_tokens": [
+    {
+      "id": "7794698e-4c8e-41e5-bddd-f03529135d68",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "token_hash": "NbfaIfBRUBCHHe3tGA66bpz5TqCNPw20",
+      "expires_at": "2025-12-15T12:28:57.061Z",
+      "used_at": null
+    },
+    {
+      "id": "38de8c0c-9c1a-44c3-abe6-997aae53ffdb",
+      "user_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "token_hash": "EFcExj1USEabb4DWnTCBw7FIbBM3Hvxa",
+      "expires_at": "2025-12-15T12:28:57.061Z",
+      "used_at": null
+    },
+    {
+      "id": "28d9a44d-6306-4dce-8480-b368928acc1c",
+      "user_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "token_hash": "hslP6F0TOEo3MFsQVT9Gpp0pHccqOBhV",
+      "expires_at": "2025-12-15T12:28:57.061Z",
+      "used_at": "2025-12-14T14:17:36.620Z"
+    },
+    {
+      "id": "c02afdce-2e37-49dd-b681-87908cdcee83",
+      "user_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "token_hash": "F6fArwxNRjlx4AmbHufVBZFNL8tgxvPI",
+      "expires_at": "2025-12-15T12:28:57.061Z",
+      "used_at": "2025-12-15T05:40:19.690Z"
+    },
+    {
+      "id": "907c272b-b88e-4945-8655-963558c48d92",
+      "user_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "token_hash": "sGAN3mymgNgU1DebEhuexEo3dZ11IXAZ",
+      "expires_at": "2025-12-15T12:28:57.061Z",
+      "used_at": null
+    }
+  ],
+  "contact_verifications": [
+    {
+      "id": "2e4626aa-03f3-4dd2-8ef3-364848f29e4d",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "channel": "sms",
+      "target": "+79991667246",
+      "code_hash": "788873",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-15T06:14:01.803Z"
+    },
+    {
+      "id": "6a9ce9b8-bf62-4b4e-ad53-f96a677e8ab8",
+      "user_id": "07e011eb-7aec-4490-9f68-2a0637d2fcb9",
+      "channel": "email",
+      "target": "Jessy.Wintheiser96@yahoo.com",
+      "code_hash": "538214",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-14T15:29:04.943Z"
+    },
+    {
+      "id": "5602c5bc-15ae-434f-bd46-5c57d134947a",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "channel": "email",
+      "target": "Filomena.Connelly73@gmail.com",
+      "code_hash": "117006",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-14T20:45:04.633Z"
+    },
+    {
+      "id": "13443330-f6fc-4ea3-ba12-a53cee89042c",
+      "user_id": "2f9e560f-0d2b-48eb-a644-caf3fd51d3d0",
+      "channel": "sms",
+      "target": "+79993474326",
+      "code_hash": "332525",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-15T03:08:17.909Z"
+    },
+    {
+      "id": "ff442367-a473-484b-baa7-83f34e33a1c6",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "channel": "email",
+      "target": "Filomena.Connelly73@gmail.com",
+      "code_hash": "879156",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-15T03:06:14.661Z"
+    },
+    {
+      "id": "9899dba3-edb4-48c4-a9e5-454f424fdfbd",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "channel": "email",
+      "target": "Filomena.Connelly73@gmail.com",
+      "code_hash": "145248",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-14T21:35:34.655Z"
+    },
+    {
+      "id": "b7e1abae-da5f-4415-8bb0-c5aa4534eab0",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "channel": "sms",
+      "target": "+79991667246",
+      "code_hash": "020668",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": null
+    },
+    {
+      "id": "11b5bc26-ff18-4880-b457-9419a8466f6b",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "channel": "email",
+      "target": "Filomena.Connelly73@gmail.com",
+      "code_hash": "701078",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-15T07:26:43.112Z"
+    },
+    {
+      "id": "8c3cc5fc-8b54-4363-8797-1eddb3053e7f",
+      "user_id": "328b3f7e-2bd9-4603-bb08-9a888e8ac0fd",
+      "channel": "sms",
+      "target": "+79993859545",
+      "code_hash": "194124",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-15T00:52:37.776Z"
+    },
+    {
+      "id": "11f767f6-2672-4d46-9c94-d811344a9aca",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "channel": "sms",
+      "target": "+79991667246",
+      "code_hash": "341252",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-14T20:46:08.637Z"
+    },
+    {
+      "id": "4e9b1301-acaf-452c-8f81-91deb5beec63",
+      "user_id": "2b653e87-fc6c-4c6d-bb7a-064c28655f93",
+      "channel": "email",
+      "target": "Filomena.Connelly73@gmail.com",
+      "code_hash": "664232",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-14T16:42:33.381Z"
+    },
+    {
+      "id": "a13e11ac-d90a-429f-b7c8-db158b128456",
+      "user_id": "4a2f57b2-bff4-4859-934f-35eda78b20a9",
+      "channel": "email",
+      "target": "Yessenia.Adams49@hotmail.com",
+      "code_hash": "751040",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-15T03:48:26.262Z"
+    },
+    {
+      "id": "b8b62959-f7ec-4d90-9599-424a16d07198",
+      "user_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "channel": "sms",
+      "target": "+79997064477",
+      "code_hash": "859716",
+      "expires_at": "2025-12-15T12:13:57.061Z",
+      "used_at": "2025-12-14T14:49:10.400Z"
+    },
+    {
+      "id": "a53db269-141d-42db-822e-6b207e371650",
+      "user_id": "208134fa-dfef-47f9-a3ff-ad2c8c61c803",
+      "channel": "email",
+      "target": "Mossie90@hotmail.com",
+      "code_hash": "505575",
+      "expires_at": "2025-12-15T12:13:57.062Z",
+      "used_at": "2025-12-15T08:38:49.208Z"
+    },
+    {
+      "id": "fdd980be-8137-4647-914e-a4e517283f41",
+      "user_id": "19ceba13-6dfe-40b9-9522-8c9b16076fe0",
+      "channel": "email",
+      "target": "Libbie_Anderson35@gmail.com",
+      "code_hash": "240390",
+      "expires_at": "2025-12-15T12:13:57.062Z",
+      "used_at": null
+    }
+  ]
+}
