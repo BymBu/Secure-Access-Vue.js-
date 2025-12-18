@@ -9,7 +9,7 @@ const middlewares = jsonServer.defaults();
 // Конфигурация
 const PORT = 3001;
 const JWT_SECRET = 'mock-secret-key-for-development-only';
-const ACCESS_TOKEN_TTL = '15m'; // 6015 минут
+const ACCESS_TOKEN_TTL = '60m'; // 60 минут для удобства вместо 15
 const REFRESH_TOKEN_TTL = '7d'; // 7 дней
 
 // Пароль для всех тестовых пользователей
